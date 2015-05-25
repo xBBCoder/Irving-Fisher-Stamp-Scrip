@@ -227,10 +227,15 @@ made to the Tyrol state government, January 1, 1933
 Taxes had been in arrears from 1926 to 1931 as follows (year by year):
 
 |21,000 | Schillings|
++-------+-----------+
 |26,000 | "         |
++-------+-----------+
 |28,000 | "         |
++-------+-----------+
 |31,000 | "         |
++-------+-----------+
 |61,000 | "         |
++-------+-----------+
 |118,000| "         |
 
 But after the scrip was issued, not only were current taxes paid (as
