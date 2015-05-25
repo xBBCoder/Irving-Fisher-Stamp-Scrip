@@ -1,9 +1,9 @@
 STAMP SCRIP
 ===========
 
-By **Irving Fisher**, LL.D. (Professor of Economics, Yale University)   
-Assited by Hans R. L. Cohrssen and Herbert W. Fisher   
-New York; Adelphi Company; Publishers; Copyright 1933   
+By **Irving Fisher**, LL.D. (Professor of Economics, Yale University)  
+Assited by Hans R. L. Cohrssen and Herbert W. Fisher  
+New York; Adelphi Company; Publishers; Copyright 1933
 
 CONTENTS
 --------

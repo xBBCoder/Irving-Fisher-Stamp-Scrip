@@ -1,49 +1,50 @@
-STAMP SCRIP
-===========
+МАРОЧНЫЕ СЕРТИФИКАТЫ
+====================
 
-By **Irving Fisher**, LL.D. (Professor of Economics, Yale University)   
-Assited by Hans R. L. Cohrssen and Herbert W. Fisher   
-New York; Adelphi Company; Publishers; Copyright 1933   
+Автор - д-р права **Ирвинг Фишер** (профессор экономики Йельского Университета)  
+С помощью Р.Л.Хэнса и Герберта В.Фишера  
+Нью-Йорк; Компания Адельфи; Издатели; Копирайт 1933
 
-CONTENTS
---------
-I. [REASON FOR THIS BOOK](stamp1.md)
+СОДЕРЖАНИЕ
+----------
+I. [ПРИЧИНЫ НАПИСАНИЯ ЭТОЙ КНИГИ](stamp1.md)
 
-II. [THE SWAP MOVEMENT IN 1933](stamp2.md)
+II. [МЕНОВОЕ ДВИЖЕНИЕ В 1933 ГОДУ](stamp2.md)
 
-III. [STAMP SCRIP DESCRIBED](stamp3.md)
+III. [ОПИСАНИЕ МАРОЧНЫХ СЕРТИФИКАТОВ](stamp3.md)
 
-IV. [THE FIRST EXPERIMENTS ABROAD](stamp4.md)
+IV. [ПЕРВЫЕ ЭКСПЕРИМЕНТЫ ЗА ГРАНИЦЕЙ](stamp4.md)
 
-V. [THE SUDDEN SPREAD OF "SCRIP" IN THE UNITED STATES](stamp5.md)
+V. [ВНЕЗАПНОЕ РАСПРОСТРАНЕНИЕ "СЕРТИФИКАТОВ" В СОЕДИНЕННЫХ ШТАТАХ](stamp5.md)
 
-VI. [A STAMP SCRIP MANUAL FOR LOCALITIES](stamp6.md)
+VI. [РУКОВОДСТВО ПО МАРОЧНЫМ СЕРТИФИКАТАМ ДЛЯ МЕСТНЫХ ОБЩИН](stamp6.md)
 
-VII. [TO ANSWER YOUR CRITICS](stamp7.md)
+VII. [В ОТВЕТ НА ВАШУ КРИТИКУ](stamp7.md)
 
-VIII. [BEYOND THE CITY HORIZON](stamp8.md)
+VIII. [ЗА ПРЕДЕЛАМИ ГОРОДСКОГО ГОРИЗОНТА](stamp8.md)
 
-IX. [PRIMING THE PUMP](stamp9.md)
+IX. [РОСТ ЭКОНОМИЧЕСКОЙ АКТИВНОСТИ](stamp9.md)
 
-APPENDIX
---------
-I. [THE BANKHEAD-PETTENGILL BILL](stamp-ap-1.md)
+ПРИЛОЖЕНИЯ
+----------
+I. [БИЛЛЬ БЭНКХЭДА-ПЕТТЕНГИЛЛА](stamp-ap-1.md)
 
-II. [STAMP SCRIP AND BARTER EXCHANGES](stamp-ap-2.md)
+II. [МАРОЧНЫЕ СЕРТИФИКАТЫ И БАРТЕРНЫЙ ОБМЕН](stamp-ap-2.md)
 
-III. [SUGGESTED FORMS](stamp-ap-3.md)
+III. [ПРЕДЛАГАЕМЫЕ ФОРМЫ](stamp-ap-3.md)
 
-IV. [READING, PENNSYLVANIA](stamp-ap-4.md)
+IV. [РЕДИНГ, ПЕНСИЛЬВАНИЯ](stamp-ap-4.md)
 
-V. [CONGRESSMAN PETTENGILL'S SPEECH](stamp-ap-5.md)
+V. [РЕЧЬ КОНГРЕССМЕНА ПЕТТЕНГИЛЛА](stamp-ap-5.md)
 
-VI. [A BILL IN THE PENNSYLVANIA LEGISLATURE](stamp-ap-6.md)
+VI. [ЗАКОНОПРОЕКТ В ЛЕГИСЛАТУРЕ ПЕНСИЛЬВАНИИ](stamp-ap-6.md)
 
-LIST OF CHARTS
---------------
-I. Stamp Scrip, as Proposed in Reading, Pennsylvania   
-II. Reverse of Reading Scrip Showing Weekly Dates   
-III. "W�ra" Used in 1931 in Schwanenkirchen   
-IV. The Woergl Scrip   
-V. Scrip Used by Members of "Threefold Commonwealth"   
-VI. Showing Sweden's Stable Price Level Compared With America's Unstable Price Level   
+СПИСОК ИЛЛЮСТРАЦИЙ
+------------------
+I. Марочный сертификат, предлагавшийся в Рединге, Пенсильвания  
+II. Оборотная сторона редингского сертификата с еженедельными датами  
+III. "Вара", использовавшаяся в Шваненкирхене  
+IV. Сертификат Вёргля  
+V. Сертификат, использовавшийся членами "Тройственного содружества"  
+VI. Сопоставление шведского стабильного уровня цен с американским нестабильным уровнем цен
+
