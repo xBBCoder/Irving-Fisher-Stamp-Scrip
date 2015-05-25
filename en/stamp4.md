@@ -226,8 +226,8 @@ made to the Tyrol state government, January 1, 1933
 
 Taxes had been in arrears from 1926 to 1931 as follows (year by year):
 
-| -------:| ---------:|
 | 21,000  | Schillings|
+| -------:| ---------:|
 | 26,000  | "         |
 | 28,000  | "         |
 | 31,000  | "         |
