@@ -226,12 +226,17 @@ made to the Tyrol state government, January 1, 1933
 
 Taxes had been in arrears from 1926 to 1931 as follows (year by year):
 
-21,000 Schillings   
-26,000 "   
-28,000 "   
-31,000 "   
-61,000 "   
-118,000 "
+|21,000 | Schillings|
+|-------|-----------|
+|26,000 | "         |
+|-------|-----------|
+|28,000 | "         |
+|-------|-----------|
+|31,000 | "         |
+|-------|-----------|
+|61,000 | "         |
+|-------|-----------|
+|118,000| "         |
 
 But after the scrip was issued, not only were current taxes paid (as
 well as other debts owing the town), but many arrears of taxes were also
@@ -267,6 +272,8 @@ it has kept its promise to provide 'work and bread.' It has, in fact fully
 satisfied all our expectations."
 
 We now move to the United States.
+
+------
 
 (1) There is much in Gesell's philosophy to which, as an economist,
 I cannot subscribe, especially his theory of interest; but Stamp Scrip,
