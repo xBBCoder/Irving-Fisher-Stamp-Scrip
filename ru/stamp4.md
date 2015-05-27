@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER IV. THE FIRST EXPERIMENTS ABROAD
-----------------------------------------
+ГЛАВА IV. ПЕРВЫЕ ЭКСПЕРИМЕНТЫ ЗА ГРАНИЦЕЙ
+-----------------------------------------
 ### SILVIO GESELL
 MEDICINE owes much to untrained minds, or at least to minds untrained
 in medicine. Even Pasteur, though a trained scientist, was not a doctor;
@@ -24,9 +24,9 @@ In 1919 there began in Germany the so-called Freiwirtschaft movement
 which contemplated a complete currency of Stamp Scrip. In the course of
 this movement, one Hans Timm, a friend of Gesell's, formed an exchange
 for the purpose of putting the principle into operation. To his Scrip he
-gave the name of "W�ra", (a word compounded of two others, "Ware" and "W�hrung,"
+gave the name of "Wära", (a word compounded of two others, "Ware" and "Währung,"
 which mean respectively "Goods" and "Currency"); and to his organization
-he gave the name of "W�ra Exchange Association." The Scrip was to be issued
+he gave the name of "Wära Exchange Association." The Scrip was to be issued
 in denominations of 1/2, 1, 2 and 5 Wara, and to be purchasable of the
 association for 1/2, 1, 2, and 5 Reichsmark respectively. But the word
 Reichsmark nowhere appeared, and the scrip, though a private enterprise,
@@ -51,10 +51,10 @@ Not till 1931 was any general notice aroused by Wara. Then the owner
 of a Bavarian coal mine tried an experiment with it which gradually caught
 the public imagination. For two years the mine had been closed; and the
 owner, Herr Hebecker, conceived the idea that he might open it and pay
-his employees with W�ra. He would have to buy the W�ra (besides negotiating
-a loan) and he would have to pay for the W�ra with Reichsmarks, but the
-Reichsmarks were not circulating and the W�ra, he believed, would circulate.
-Moreover, there was already a thin layer of W�ra loose in Germany, and
+his employees with Wära. He would have to buy the Wära (besides negotiating
+a loan) and he would have to pay for the Wära with Reichsmarks, but the
+Reichsmarks were not circulating and the Wära, he believed, would circulate.
+Moreover, there was already a thin layer of Wära loose in Germany, and
 Herr Hebecker hoped to win the patronage of those who used it. In part,
 he was a fellow propagandist with those users, and Herr Timm issued bulletins
 among them.
@@ -129,10 +129,10 @@ one of the most common of monetary misconceptions, - the German government
 imagined that it could detect in Wara the threat of evil - evil to come
 out of good; and at last the government succeeded in stopping the good.
 It forbade Wara by means of an emergency law (3) "As a result," (writes
-Mr. Cohrssen), "Schwanenkirchen and other towns where W�ra have provided
+Mr. Cohrssen), "Schwanenkirchen and other towns where Wära have provided
 the life blood of economic activity are on the dole again."
 
-As to the spread of W�ra through Germany, not more than 20,000 W�ra
+As to the spread of Wära through Germany, not more than 20,000 Wära
 circulated at any one time. Yet it was said, during 1930-31, that 2 1/2
 millions of people handled it. Accordingly, many observers believed that
 the amount issued was far greater than it was.

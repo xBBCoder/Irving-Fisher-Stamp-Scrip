@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER VI. A STAMP SCRIP MANUAL FOR LOCALITIES
------------------------------------------------
+ГЛАВА VI. РУКОВОДСТВО ПО МАРОЧНЫМ СЕРТИФИКАТАМ ДЛЯ МЕСТНЫХ ОБЩИН
+----------------------------------------------------------------
 ### THE OFFICIAL SPONSOR
 STAMP SCRIP can very appropriately be sponsored by private organizations,
 such as exchanges and chambers of commerce; but my belief is that municipal

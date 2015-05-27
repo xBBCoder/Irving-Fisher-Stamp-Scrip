@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### II. STAMP SCRIP AND BARTER EXCHANGES
 The general advantages of scrip are explained in the text. Here I consider
 its advantages for achieving the proposed country-wide hook-up of barter

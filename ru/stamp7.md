@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER VII. TO ANSWER YOUR CRITICS
------------------------------------
+ГЛАВА VII. В ОТВЕТ НА ВАШУ КРИТИКУ
+----------------------------------
 CRITIC: Not being legal tender, Stamp Scrip will not circulate.
 
 ANSWER: This is an academic remark, for Stamp Scrip does circulate

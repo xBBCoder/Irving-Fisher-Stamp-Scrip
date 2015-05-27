@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### V. CONGRESSMAN PETTENGILL'S SPEECH
 Without taking part at this time in the present debate about "inflation,"
 it is admitted by everyone that perhaps the most fundamental thing to be

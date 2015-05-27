@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER III. STAMP SCRIP DESCRIBED
-----------------------------------
+ГЛАВА III. ОПИСАНИЕ МАРОЧНЫХ СЕРТИФИКАТОВ
+-----------------------------------------
 STAMP SCRIP is, as hitherto used, a temporary substitute for a part
 of the regular currency which has deserted. It is small in amount and short
 in duration.

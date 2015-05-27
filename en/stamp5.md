@@ -106,12 +106,11 @@ was taken in pledging the cooperation of the community beforehand.
 This town (Russell) supplies some interesting figures as to the purchase
 of stamps:
 
-51 per cent are bought by labor and general population
-
-18 1/3 per cent by grocers   
-17 1/3 per cent by utilities (gas, water, light, telephone)    
-6 2/3 per cent by auto supply dealers (gas, oil, repairs)   
-5 2/3 per cent by dealers in clothing and housefurnishings
+* 51 per cent are bought by labor and general population
+* 18 1/3 per cent by grocers
+* 17 1/3 per cent by utilities (gas, water, light, telephone)
+* 6 2/3 per cent by auto supply dealers (gas, oil, repairs)
+* 5 2/3 per cent by dealers in clothing and housefurnishings
 
 ### ROCK RAPIDS, IOWA (4)
 The town issued $250 of scrip in exclusively 50-cent denominations,
@@ -283,7 +282,7 @@ along this line was that of the "Threefold Corporation" of New York," which
 has now abandoned it in favor of Stamp Scrip.
 
 Another rather original application of the principle of "compulsory"
-circulation is the "Speed Money" which the zealous adherents of the German-Wära
+circulation is the "Speed Money" which the zealous adherents of the German-WÃ¤ra
 movement started, after the Government had interfered with their issuance
 of Stamp Scrip. A Dr. Nordwall, of Norden in Germany advertised in the
 local paper one day that he would give to Reichsmark to the first man to
@@ -354,7 +353,8 @@ shall continue to rest on the localities.
 (1) The city was to pay no interest on these warrants.   
 (2) Informant, Mr. E. B. Danielson, President of the Russell Chamber of Commerce.   
 (3) December 21, 1932.   
-(4) Informant: Mr. W. F. Gingrich, Superintendent of Municipal Public Utilities. (5) Informant: Mr. Roy Wilkinson, City Clerk.   
+(4) Informant: Mr. W. F. Gingrich, Superintendent of Municipal Public Utilities.  
+(5) Informant: Mr. Roy Wilkinson, City Clerk.   
 (6) Informant, Mr. O. P. Berg, City Clerk.   
 (7) Informant, Mr. C. F. Wilson, Mayor.   
 (8) Informant, Mr. Hugo Kuyper, Secretary of the Chamber of Commerce.   

@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER VIII. BEYOND THE CITY HORIZON
--------------------------------------
+ГЛАВА VIII. ЗА ПРЕДЕЛАМИ ГОРОДСКОГО ГОРИЗОНТА
+---------------------------------------------
 THE country as a whole is suffering not only from a reduced volume of
 business but also from a reduced price level on which that volume is transacted.
 Stamp Scrip has already proved that, in any or all localities, it can increase

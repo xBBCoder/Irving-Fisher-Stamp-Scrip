@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER IX. PRIMING THE PUMP
-----------------------------
+ГЛАВА IX. РОСТ ЭКОНОМИЧЕСКОЙ АКТИВНОСТИ
+---------------------------------------
 ### MY GRANDMOTHERS PUMP
 AT my grandmother's country house, fifty and more years ago, you quenched
 your thirst at the spout of an oldfashioned wooden pump. To compel this

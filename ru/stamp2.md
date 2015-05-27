@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER II. THE SWAP MOVEMENT IN 1933
--------------------------------------
+ГЛАВА II. МЕНОВОЕ ДВИЖЕНИЕ В 1933 ГОДУ
+--------------------------------------
 ### THE MOVIES
 THOSE who go often to the "movies" must have seen Marie Dressler as
 a bank president, or Chic Sale as a small-town grocer, each promoting a

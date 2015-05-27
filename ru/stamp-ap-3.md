@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### III. SUGGESTED FORMS
 #### Prospectus
 Adopted from form used by Mr. H. C. Parmelee, Fort Smith, Ark.

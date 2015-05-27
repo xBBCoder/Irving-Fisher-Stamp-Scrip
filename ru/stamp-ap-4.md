@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### IV. STAMP SCRIP ADAPTED TO AN EMERGENCY SITUATION IN READING, PENNSYLVANIA
 #### By Hans R. L. Cohrssen
 The Chamber of Commerce to issue a certain amount of dated stamp scrip
@@ -265,7 +265,7 @@ by the Operating Committee
 of the Operating Committee.
 
 How Does Scrip Look? Reading-Berks County Stamp Scrip comes in denominations
-of 50�, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
+of 50\A2, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
 the $5 bill is rose and the $10 bill is blue. It is printed on especially
 secured safety paper. When holding the bills against the light you will
 detect the watermarks. Protect yourself by looking at the watermarks before

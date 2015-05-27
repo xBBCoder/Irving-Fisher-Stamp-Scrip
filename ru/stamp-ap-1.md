@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### I. THE BANKHEAD-PETTENGILL BILL
 #### February 17, 1933
 SEC. 2. The Secretary of the Treasury shall cause to be engraved and

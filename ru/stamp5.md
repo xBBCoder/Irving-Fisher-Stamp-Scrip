@@ -1,166 +1,130 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-CHAPTER V. THE SUDDEN SPREAD OF "SCRIP" IN THE UNITED STATES
-------------------------------------------------------------
-Oh the whole the American experience with Stamp Scrip is so young that
-Schwanenkirchen and Woergl are still the leading cases; but some lessons
-may even now be learned from our own experience. Twenty or more towns are
-embarked on the plan in one form or another, and many more appear to be
-in line, including several large cities.
+ГЛАВА V. ВНЕЗАПНОЕ РАСПРОСТРАНЕНИЕ "СЕРТИФИКАТОВ" В СОЕДИНЕННЫХ ШТАТАХ
+----------------------------------------------------------------------
+Вся американская история марочных сертификатов настолько молода, что Шваненкирхен и Вёргль еще остаются основными
+образцами. Но некоторые уроки может преподать и наш собственный опыт уже сейчас. Двадцать или более городов в той или
+иной форме внедряют у себя сертификаты, и многие другие готовятся к этому, включая несколько больших городов.
 
-I shall glance over the high lights of this brief experience.
+Я просто обязан сделать обзор этого яркого, хотя и недолгого, опыта.
 
-### HAWARDEN, IOWA
-The originator of Stamp Scrip in America was Charles Zylstra of Hawarden,
-Iowa. This is a town of 3000 inhabitants. Its finances were in good shape,
-but there were plenty of workless men and the usual number of boarders.
-So, in October 1932, upon petition, the town decided to issue $300 in Stamp
-Scrip of $1.00 denomination. The sum was to be used principally for a town
-road to be built by otherwise workless men.
+### ХАВАРДЕН, АЙОВА
+Инициатором движения марочных сертификатов в Америке стал Чарли Зилстра из Хавардена, Айова. Этот город населяли 3000
+жителей. Его финансовое состояние было хорошим, но в нем было много безработных мужчин и определенное количество
+пансионеров. Поэтому, в октябре 1932 года на основании ходатайства город решил выпустить марочные сертификаты на $300
+номиналом по $1.00. Эта сумма была использована, главным образом, на строительство городской дороги, к которому были
+привлечены ранее безработные.
 
-The scrip is redeemable, but there is no advance redemption fund. The
-stamps alone are the guaranty, and they are sold by the town at 3 cents
-per dollar of scrip, which is redeemable whenever 36 stamps (aggregating
-$1.08) have been affixed. There is no set period, however, for affixing
-the stamps. The agreement is merely that one stamp is to be affixed with
-each transfer of the scrip, so that the redemption date is indeterminate.
+Сертификаты являются выкупаемыми, но никакого авансированного выкупного фонда не существует. Выкуп гарантируется лишь
+после того, как к сертификату будет приклеено 36 марок. Эти марки город продает по 3 цента за штуку. Таким образом,
+сертификат в $1 выкупается только после покупки марок на $1.08. При этом никакого периода для наклеивания марок не
+устанавливалось. Соответственно принятому соглашению, одна марка приклеивается при каждой операции передачи сертификата,
+так что дата выкупа остается неопределенной.
 
-The plan was backed by most of the merchants and by one bank and of
-course by the otherwise workless men. These agreed to take $1.00 of scrip
-to 6o cents of cash in their pay envelopes.
+План был поддержан большинством продавцов, одним банком и, конечно же, безработными. Они согласились принимать
+сертификаты в $1.00 на каждые 60 центов наличными в своей зарплате.
 
-At first, the machinery creaked a little, some people refused the scrip.
-But now, I understand, all is working smoothly, and a new issue of $1000
-has been authorized.
+Поначалу машина двигалась с некоторым скрипом. Некоторые люди отказались от сертификатов. Но сейчас, как я знаю, все
+работает безотказно, и были выпущены новые сертификаты на $1000.
 
-But the omission from the Hawarden plan of the set dates for stamping
-was, I think, ill-advised. It would naturally weaken the speed motive and
-might even reverse it, since it costs 3 cents to transfer the scrip instead
-of costing 3 cents not to transfer it! Also the indeterminateness of the
-date affords a loophole for collusion at the time of transfer, since both
-parties to a given transaction may agree to omit the stamp altogether.
-Neither party has any motive for checking the other. And Hawarden has become
-the precedent, in this respect, for other American towns which are taking
-up the Stamp Scrip idea.
+В хаварденском плане все-же есть упущение. А именно - отсутствие дат для наклеивания марок, что, на мой взгляд,
+опрометчиво. Это, конечно-же, снижает мотивацию быстрее оборачивать сертификаты и даже может замедлить оборот, так как
+приходится либо платить 3 цента за передачу сертификата, либо не передавать его! Кроме того, неопределенность времени
+создает возможность злоупотреблений, когда при обмене сертификата обе стороны транзакции договариваются не наклеивать
+марку. Ни у одной стороны нет заинтересованности контролировать другую. И в этом отношении Хаварден также является
+прецедентом для других американских городов, желающих реализовать идею марочных сертификатов.
 
-### EVANSTON, ILLINOIS
-In Evanston, Illinois, it was a merchants' association that inaugurated
-the Stamp Scrip. They inscribed it with a new word: "Eirma." This is composed
-of the initials of the organization name: "Evanston Independent Retail
-Merchants Association."
+### ЭВАНСТОН, ИЛЛИНОЙС
+Зачинателем марочных сертификатов в Эванстоне (Иллинойс) стала ассоциация продавцов. Свои сертификаты они назвали новым
+словом: "Еирма" ("Eirma"), которое является аббревиатурой названия их организации: "Evanston Independent Retail
+Merchants Association" (Эванстонская независимая ассоциация розничных торговцев).
 
-In this long title, the word "Independent" expresses the motive for
-the scrip; for what the merchants meant to be independent of was the shopping
-in Chicago instead of Evanston and at the chain stores which had invaded
-their territory. They thought they could, by an appeal to town loyalty,
-prevent the scrip from circulating among their rivals. Accordingly, after
-getting a sufficient number of consents, they printed $5000 worth of "Eirma"
-and "sold" it to the members according to their respective requirements -
-for paying their employees and dealing with one another. In other words,
-the local members put up a guaranty fund of $5000 which was held in escrow
-by a bank. Fifty stamps, at 2 cents, retired the scrip, which was to he
-redeemed by the "Eirma" organization.
+Слово "независимая" в этом длинном названии акцентирует мотивы введения марочных сертификатов. Имеется в виду, что
+торговля в Эванстоне независима от торговли в Чикаго и не допустит вторжения чикагских торговых сетей на свою
+территорию. По мнению инициаторов, призыв к городскому патриотизму должен был воспрепятствовать обращению сертификатов
+среди их соперников.
 
-In this instance the banks in general did not cooperate. The bankers'
-motive of loyalty to a municipal enterprise was lacking. Neither did the
-town offer to receive the scrip for tax payments. Nevertheless the town
-lent its moral support, as the result of a very ingenious bid which was
-made by the Eirma organization. It so happened that the town's own finances
-were in such poor shape that it had been obliged to defray some of its
-expenses by means of "tax anticipation warrants," later redeemable by the
-town in cash. So the Eirma organization agreed to buy these warrants with
-the cash proceeds of the stamps as fast as these should be sold.(1) Thus,
-when the redemption date should arrive, for the Eirma the redemption would
-have to be effected with the initial guarantee fund, not with the proceeds
-of the stamps. This would leave the tax anticipation warrants still in
-the Eirma treasury for distribution to the members according to their purchases
-of stamps. The net result, therefore, of the Eirma dollars amounted to
-a purchase on the instalment plan of tax-anticipation-warrants, by the
-members of the Eirma Association.
+После получения всех необходимых разрешений, ассоциация напечатала "Еирмы" на сумму $5000 и "продала" их своим членам
+соответственно их потребностям - для оплаты труда работников и расчетов между собой. Другими словами, члены ассоциации
+совместно создали гарантийный фонд в $5000, который был положен на банковский депозит. После наклеивания пятидесяти
+марок стоимостью в 2 цента, сертификат подлежал выкупу организацией "Еирма".
 
-But in Evanston there crops out the first unfortunate result of copying
-the Hawarden precedent (of making the stamps affixable, not at set intervals,
-but with each transaction). Evanston is a larger place than Hawarden, so
-that it is not so easy in Evanston to detect the small disloyalties of
-the citizens. Accordingly the chain stores made a flank attack on the local
-merchants by agreeing with their patrons to receive the scrip, without
-stamps, provided the patrons would receive them back without stamps. Therefore,
-at last advices, the stamps were not selling as they should.
+В данном случае банки не участвовали в проекте. Мотивация банкиров была недостаточной, чтобы поддержать это
+муниципальное предприятие. И никто в городе не предложил использовать сертификаты для налоговых платежей. Тем не менее,
+город оказал моральную поддержку проекту, благодаря следующему очень остроумному ходу организации Еирма. Дело в том, что
+собственно городские финансы были настолько плачевны, что город был вынужден покрывать некоторые свои траты так
+называемыми "ордерами ожидаемого налога", позднее погашавшимися из городской казны. Организация Еирма согласилась по
+первому требованию принимать эти ордера к оплате марочными сертификатами. (1) Когда же предъявлялись к выкупу сами
+сертификаты Еирма, это осуществлялось из гарантийного фонда, а не из выручки от продажи марок. Это позволило организации
+оставлять у себя ордера ожидаемого налога для распределения между своими членами соответственно их тратам на покупку
+марок. Таким образом, наконец, члены ассоциации Еирма получали возможность покупать часть необходимых им долларов Еирма
+в рассрочку платежа посредством ордеров ожидаемого налога.
 
-The Eirma organization now concedes the superiority of dated scrip,
-and would like to pass the whole enterprise over to the municipality.
+Первые результаты в Эванстоне оказались неудачными из-за копирования хаварденского прецедента (марки приклеиваются не
+через определенное время, а при каждой транзакции). Эванстон - гораздо более крупное поселение, чем Хаварден, и в нем
+довольно сложно выявлять мелкие предательства со стороны горожан. В результате, сеть конкурентных магазинов произвела
+фланговую атаку на местных торговцев, договорившись с их клиентами о том, что будут принимать сертификаты без марок и
+возвращать горожанам также без марок. Марки, соответственно, не продаются, как это было запланировано.
 
-### RUSSELL, KANSAS (2)
-Russell, Kansas, has a population of 2000. On December 21, 1932, the
-municipality issued (3) $300 in scrip, exclusively in a 50-cent denomination.
-The stamps are 1 cent each; and in spite of the fact that they are attachable
-only with each transaction, a check-up seems to show an average turnover
-of once every three days. The plan has helped in the clearing up of debts
-among the local merchants; but the observers regard it as only partially
-successful, so far as concerns the use of the scrip in buying produce from
-farmers and in hiring extra labor. It is suggested that not enough care
-was taken in pledging the cooperation of the community beforehand.
+Теперь Еирма признает преимущество датируемых сертификатов и хочет передать всё предприятие муниципалитету.
 
-This town (Russell) supplies some interesting figures as to the purchase
-of stamps:
+### РАССЕЛ, КАНЗАС (2)
+Население канзасского Рассела составляет 2000 человек. 21 декабря 1932 года его муниципалитет выпустил сертификаты (3)
+на $300 в единственном номинале по 50 центов. Марки стоили по 1 центу каждая. И вопреки тому, что марки прикреплялись
+только при транзакциях, сертификаты обращались в среднем за три дня. Проект помог рассчитаться по долгам перед местными
+торговцами, но, по мнению наблюдателей, имел лишь частичный успех в закупке продукции местных фермеров и в найме
+дополнительных рабочих. Причиной, скорее всего, была изначально слабая готовность местного сообщества к сотрудничеству.
 
-51 per cent are bought by labor and general population
+Этот город (Рассел) предоставил интересную статистику о покупках марок:
 
-18 1/3 per cent by grocers   
-17 1/3 per cent by utilities (gas, water, light, telephone)    
-6 2/3 per cent by auto supply dealers (gas, oil, repairs)   
-5 2/3 per cent by dealers in clothing and housefurnishings
+* 51 процент был куплен рабочими и основным населением;
+* 18 1/3 процента были куплены бакалейщиками;
+* 17 1/3 процента - коммунальщиками (газ, вода, свет, телефон);
+* 6 2/3 процента - дилерами автосервиса (горючее, масло, ремонт);
+* 5 2/3 процента - продавцами одежды, мебели и хозтоваров.
 
-### ROCK RAPIDS, IOWA (4)
-The town issued $250 of scrip in exclusively 50-cent denominations,
-redeemable with 54 stamps, costing 1 cent each. The purpose is to help
-the unemployed. People are reluctant to take the scrip from the merchants,
-but the turnover seems to be once every four days.
+### РОК РЭПИДС, АЙОВА (4)
+Город выпустил сертификаты на $250 в единственном номинале по 50 центов, выкупаемые с 54 марками стоимостью в 1 цент.
+Целью выпуска была помощь безработным. Люди неохотно принимают сертификаты у продавцов, но, как оказалось, скорость их
+оборота составляет всего четыре дня.
 
-This scrip is foldable, and the stamps are attached inside.
+Эти сертификаты могут складываться, и марки прикрепляются внутри.
 
-### ALBIA, IOWA (5)
-The town issued $401.50 in a 50-cent denomination, redeemable by 54
-stamps, 1 cent each, affixed with each transaction. The entire group of
-business and professional men are back of the plan, and there are no difficulties.
-It is said that useful work has been done for the city which would have
-been impossible without the scrip.
+### АЛБИА, АЙОВА (5)
+Город выпустил сертификаты на $401.50 в номинале по 50 центов, выкупаемые с 54 марками по 1 центу за каждую,
+прикрепляемые при каждой транзакции. План был поддержан большой группой бизнеса и профессиональных работников. С этим
+никаких сложностей не возникло. Благодаря этим сертификатам в городе была проделана очень полезная работа, которая была
+бы невозможна без них.
 
-### GRANITE FALLS, MINNESOTA (6)
-Here there are 1800 inhabitants. The first issue of scrip was $1000;
-and $500 more are, at this writing, soon to be issued. The denominations
-are 25 cents, 50 cents and $1.00, and the stamps 1 cent, 2 cents and 4
-cents respectively, attachable with each transaction. In the first one
-and a half months (the last information), no scrip had come in for redemption.
-The scrip has been used to help 30 families by giving work to the men at
-30 cents an hour. The work is the removing of rocks from the streets.
+### ГРАНИТ ФОЛС, МИННЕСОТА (6)
+Население этого города - 1800 человек. Первый выпуск сертификатов был произведен на $1000. На момент написания этой
+книги готовится дополнительный выпуск еще на $500. Сертификаты выпускаются номиналом в 25 центов, 50 центов и в $1.00.
+Марки соответственно выпускаются стоимостью в 1 цент, 2 цента и 4 цента. Они приклеиваются при каждой транзакции. В
+первые полтора месяца (согласно последней информации) выкуп сертификатов не производится. Сертификаты используются для
+представления работы 30 семьям. За работу платят по 30 центов в час каждому работнику. Работа заключается в удалении
+камней с городских улиц.
 
-### NEVADA, IOWA (7)
-This town issued $300 of the Hawarden type of scrip including the 3
-cent stamp. The plan has worked well, and a second issue is, at this writing,
-being considered. One new feature here is that the city clerk acts as a
-clearing house: he takes scrip from merchants who cannot use it and passes
-it on to others who can.
+### НЕВАДА, АЙОВА (7)
+Этот город выпустил сертификаты на $300 по образцу хаварденских, включая и марки по три цента. План хорошо сработал и на
+момент написания книги обдумывается второй выпуск. В этом проекте есть своя особенность. А именно, - муниципальный
+служащий, выполняющий роль координационного центра. Он принимает сертификаты у тех торговцев, которые не могут их
+использовать, и передает тем, которые могут.
 
-### PELLA, IOWA (8)
-There are 3600 inhabitants. The scrip issue was by the Chamber of Commerce
-and was $500, - Hawarden type. The city handled one half of the issue and
-the Chamber, the other half. Some unemployed received work on projects
-which could not otherwise have been accomplished. The scrip is said, however,
-not to help the unemployed more than once. Nor has it stimulated business.
-The business men complain, too, that they bear all the burden of stamping,
-and that the general public refuses to receive the scrip in change over
-the counter. For the sake of the unemployed this town would like to issue
-more, but it hesitates, largely because the circulation seems to be limited
-to the business men and seems to clog their tills.
+### ПЕЛЛА, АЙОВА (8)
+Здесь проживает 3600 человек. Выпуск сертификатов был произведен Торговой палатой на сумму $500, - хаварденского типа.
+Половиной этого выпуска распорядился город, а другой половиной - сама Торговая палата. Благодаря этому сколько-то
+безработных получили работу в проектах, которые иначе не могли бы осуществиться. Тем не менее, говорят, что помощь
+безработным оказалась только разовой. Не произошло и стимулирования бизнеса. Деловые люди жалуются, что несут все
+расходы на марки, и что общественность отказывается получать сертификаты в оплату счетов. Ради безработных город готов
+выпустить дополнительные сертификаты, но есть сомнения в их нормальной циркуляции. Пока они только забивают кассы и тем
+самым ограничивают бизнес.
 
-### MANGUM, OKLAHOMA (9)
-The town, in January 1933;, issued $500 in a $1.00 denomination, to
-bear fifty 2-cent stamps. It is used for labor on city projects at $2.00
-a day, not more than two days per week per man. The scrip has thus far
-proved satisfactory.
+### МАНГУМ, ОКЛАХОМА (9)
+В январе 1933 года город выпустил $500 в номинале по $1.00, на которые должны наклеиваться пятьдесят 2-центовых марок.
+Ими оплачивается труд рабочих в городских проектах в размере $2.00 в день, но не более двух рабочих дней в неделю на
+одного человека. Сертификаты принимаются вполне удовлетворительно.
 
 ### ELDORA, IOWA (10)
 The town issued $300 of the Hawarden type of scrip. It circulates slowly
@@ -283,7 +247,7 @@ along this line was that of the "Threefold Corporation" of New York," which
 has now abandoned it in favor of Stamp Scrip.
 
 Another rather original application of the principle of "compulsory"
-circulation is the "Speed Money" which the zealous adherents of the German-W�ra
+circulation is the "Speed Money" which the zealous adherents of the German-Wära
 movement started, after the Government had interfered with their issuance
 of Stamp Scrip. A Dr. Nordwall, of Norden in Germany advertised in the
 local paper one day that he would give to Reichsmark to the first man to
@@ -354,7 +318,8 @@ shall continue to rest on the localities.
 (1) The city was to pay no interest on these warrants.   
 (2) Informant, Mr. E. B. Danielson, President of the Russell Chamber of Commerce.   
 (3) December 21, 1932.   
-(4) Informant: Mr. W. F. Gingrich, Superintendent of Municipal Public Utilities. (5) Informant: Mr. Roy Wilkinson, City Clerk.   
+(4) Informant: Mr. W. F. Gingrich, Superintendent of Municipal Public Utilities.  
+(5) Informant: Mr. Roy Wilkinson, City Clerk.   
 (6) Informant, Mr. O. P. Berg, City Clerk.   
 (7) Informant, Mr. C. F. Wilson, Mayor.   
 (8) Informant, Mr. Hugo Kuyper, Secretary of the Chamber of Commerce.   

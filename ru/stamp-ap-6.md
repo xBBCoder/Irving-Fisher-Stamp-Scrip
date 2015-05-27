@@ -1,9 +1,9 @@
-[Content: Stamp Scrip](index.md) (by Irving Fisher, 1933)
+[Содержание: Марочные сертификаты](index.md) (Ирвинг Фишер, 1933)
 
 ------
 
-APPENDIX
---------
+ПРИЛОЖЕНИЕ
+----------
 ### VI. A BILL IN THE PENNSYLVANIA LEGISLATURE
 Authorizing the issuance of scrip certificates for relief purposes by
 political subdivisions of this Commonwealth; providing for the printing
