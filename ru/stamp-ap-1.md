@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### I. THE BANKHEAD-PETTENGILL BILL
+### I. БИЛЛЬ БЭНКХЭДА-ПЕТТЕНГИЛЛА
 #### February 17, 1933
 SEC. 2. The Secretary of the Treasury shall cause to be engraved and
 printed currency of the United States in the form of stamped money certificates.

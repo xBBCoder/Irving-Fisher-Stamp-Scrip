@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### II. STAMP SCRIP AND BARTER EXCHANGES
+### II. МАРОЧНЫЕ СЕРТИФИКАТЫ И БАРТЕРНЫЙ ОБМЕН
 The general advantages of scrip are explained in the text. Here I consider
 its advantages for achieving the proposed country-wide hook-up of barter
 exchanges.

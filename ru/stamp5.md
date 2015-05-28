@@ -126,32 +126,26 @@ Merchants Association" (Эванстонская независимая ассо
 Ими оплачивается труд рабочих в городских проектах в размере $2.00 в день, но не более двух рабочих дней в неделю на
 одного человека. Сертификаты принимаются вполне удовлетворительно.
 
-### ELDORA, IOWA (10)
-The town issued $300 of the Hawarden type of scrip. It circulates slowly
-and as a business stimulator is not considered of "much if any value,"
-and may he called successful only in so far as it have $300 of immediate
-relief to the unemployed.
+### ЭЛДОРА, АЙОВА (10)
+Город выпустил сертификаты хаварденского типа на $300. Обращаются они медленно и не могут рассматриваться в качестве
+стимулятора бизнеса. Назвать их успешными можно лишь постольку, поскольку благодаря им безработные получили разовую
+помощь в $300.
 
-### JASPER, MINNESOTA
-This is a village of 900 inhabitants. It issued $150 of scrip in 25-cent,
-50-cent and $1.00 denominations. Redemption of the $1.00 scrip takes thirty-six
-3-cent stamps ($1.08). Its purpose is to dive work to the unemployed at
-25 cents an hour, 6 hours per day and not more than two days per week per
-man.
+### ДЖАСПЕР, МИННЕСОТА
+В этом поселке живет 900 человек. Он выпустил сертификаты на $150 в номинале по 25 центов, 50 центов и $1.00. Выкуп
+сертификата в $1.00 требует тридцати шести марок по 3 цента (на $1.08). Целью являлось предоставление работы безработным
+по 25 центов за час, 6 часов в день и не более двух рабочих дней в неделю на человека.
 
-### MERCED AND ANAHEIM, CALIFORNIA
-In these towns scrip was issued in the $1.00 denomination, with 4-cent
-stamps affixable at each transaction. In both places the plan had to be
-abandoned: in Merced, for lack of enthusiasm; in Anaheim, because of a
-substantial loss.
+### МЕРСЕД И АНАХАЙМ, КАЛИФОРНИЯ
+Эти два города выпустили сертификаты в номинале по $1.00 с 4-центовыми марками, приклеиваемыми при каждой транзакции. Но
+в обоих городах пришлось отказаться от этой затеи. В Мерседе - из-за отсутствия энтузиазма. В Анахайме - из-за
+существенных убытков.
 
-### LEXINGTON, NEBRASKA. (11)
-The town has prepared $500 of the Hawarden, or dateless, type of scrip
-in a $1.00 denomination, of which $325 was issued (about January 15). In
-a month, only $35 worth of stamps had been sold. There is, perhaps, insufficient
-diversity of occupation, and the scrip (after hiring labor) tends to clog
-in the hands of three or four merchants. "The value, after the initial
-transactions" seems "quite problematical."
+### ЛЕКСИНГТОН, НЕБРАСКА (11)
+Город подготовил сертификаты хаварденского, или недатируемого типа на $500 в номинале по $1.00. К 15 января в оборот
+были выпущены только $325. Объем продажи марок составил всего 35$ за месяц. Сказалось, вероятно, недостаточное
+разнообразие занятий в городе. После выплаты рабочим сертификаты скопились в руках трех или четырех торговцев. Так что
+"после первых сделок их значение кажется весьма проблематичным".
 
 ### ENID, OKLAHOMA (12)
 On January 16, 1933, the Merchants Association issued 1700 one-dollar

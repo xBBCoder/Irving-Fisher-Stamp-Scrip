@@ -4,124 +4,98 @@
 
 ГЛАВА II. МЕНОВОЕ ДВИЖЕНИЕ В 1933 ГОДУ
 --------------------------------------
-### THE MOVIES
-THOSE who go often to the "movies" must have seen Marie Dressler as
-a bank president, or Chic Sale as a small-town grocer, each promoting a
-scheme of barter. If proof were needed that overproduction is not the cause
-of the depression, barter is the proof - or some of the proof. It shows
-goods not over-produced but dead-locked for want of a circulating transfer-belt
-called "money." Many a dealer sits down in puzzled exasperation, as he
-sees about him a market wanting his goods, and well stocked with other
-goods which he wants and with able-bodied and willing workers, but without
-work and therefore without buying power. Says A, "I could use some of B's
-goods; but I have no cash to pay for them until someone with cash walks
-in here!" Says B, "I could buy some of C's goods, but I've no cash to do
-it with till someone with cash walks in here." Says the job hunter, "I'd
-gladly take my wages in trade if I could work them out with A and B and
-C who among them sell the entire range of what my family must eat and wear
-and burn for fuel - but neither A nor B nor C has need of me - much less
-could the three of them divide me up." Then D comes on the scene, and says,
-"I could use that man! - if he'd really take his pay in trade; but he says
-he can't play a trombone and that's all I've got for him."
+### ФИЛЬМ
+ТЕ, кто часто ходит в кино, должны были видеть Мари Дресслер в роли президента банка или Чика Сэйла в роли бакалейщика
+из маленького городка, - оба проворачивали бартерные схемы. Если нужно доказывать, что вовсе не перепроизводство стало
+причиной депрессии, то бартер и есть то самое доказательство, или одно из них. Он демонстрирует, что товаров не слишком
+много, они просто заблокированы из-за остановившегося приводного ремня, который называется "деньги". Многие торговцы
+озадачиваются и раздражаются, когда видят вокруг себя рынок, нуждающийся в их товарах и набитый другими товарами,
+которые им нужны, видят трудоспособных и мотивированных рабочих, но без работы и потому ничего не покупающих.
 
-"Very well," cries Chic or Marie, "A's boy is looking for a trombone
-and that solves the whole problem, and solves it without the use of a dollar.
-The world's first market had nothing but goods and able bodies, but it
-didn't refuse to function on that account. Let's go. We'll exchange goods
-for goods, service for service, goods for service and service for goods."
+Человек A говорит в фильме: "Я хочу получить некоторые товары у B, но я не могу заплатить ему, пока ко мне не придет кто
+нибудь с деньгами". Человек B говорит: "Я хотел бы купить товары у C, но у меня нет для этого денег, пока кто нибудь не
+придет ко мне с деньгами". Говорит безработный: "Я бы с удовольствием отказался от заработка в пользу A или B или C,
+если бы кто-то из них мог покрыть нужды моей семьи в еде, одежде и топливе, но ни A, ни B, ни C не могут этого сделать.
+Не могу же я разделиться на них троих". Затем на сцене появляется D и говорит: "Я мог бы нанять этого человека, если он
+согласится брать заработок товарами. Но он не умеет играть на тромбоне, а ведь это все, что мне от него нужно".
 
-All very well for that particular case; but it was the playwright who
-constructed it to suit his pattern. In the real life of the twentieth century,
-the handicaps to barter on a large scale are practically insurmountable.
-A desk maker, if he wants a ton of coal, would almost have to dump his
-desk in a hand-barrow and trundle it about till he met a coal dealer whose
-crying need happened to be a desk.
+"Очень хорошо!", - восклицает Чик или Мари. - "Если найдется парень для тромбона, то это решит проблему. Причем решит ее
+без использования долларов. Это будет первый в мире рынок, на котором нет ничего, кроме товаров и способных людей, хотя
+это и не отменяет необходимости учета. Давайте начнем. Мы будем менять товары на товары, услуги на услуги, товары на
+услуги и услуги на товары".
 
-Therefore Chic or somebody organizes an Exchange Association, with
-a register in which are noted what can be supplied by whom and who wants
-what.
+В этом конкретном случае все очень хорошо. Но эту ситуацию сконструировал сценарист по своему шаблону. А в реальной
+жизни двадцатого столетия бартер сталкивается с гораздо более масштабными и практически непреодолимыми препятствиями.
+Если продавец столов захочет получить тонну угля, он должен будет погрузить свой стол на тележку и катить ее до тех пор,
+пока не встретит продавца угля, которому нужен стол.
 
-### SWAPPING BEGINS
-So much for the movies which do not always reflect real life.
+Поэтому Чик или еще кто нибудь организует Ассоциацию обмена, в которой регистрируется, кто и что может поставить, а
+также, - кто и в чем нуждается.
 
-Nevertheless, in the real life of this depression, and culminating
-apparently in 1933, precisely what I have just described has been taking
-place. First the farmers, finding themselves in possession of goods which
-they wanted to get rid of, and in sight of goods which they wanted to acquire,
-but also finding themselves almost entirely without the money needed to
-effect the exchanges, began to effect the exchanges unconventionally -
-they "swapped." First they swapped goods for goods. But they needed farm-hands
-too; so they repaired to the near villages, sought out the unemployed and
-began to swap goods for service. The unemployed themselves then took up
-the idea, and soon a sort of self-help movement, principally under the
-initiative of the unemployed, was on its way to a larger and larger cross-section
-of the population. A few months ago it was estimated that 250 thousand
-people were depending in whole or in part upon barter; and today the estimate
-is more like a million. Before these words, written at top speed, reach
-the printer, even this last figure may be outdated. A short time ago there
-were said to be 200 barter exchanges scattered among 30 states. At this
-writing the estimate, as printed in the New York Times (1), is more like
-400; and no doubt this figure too will soon be out-dated.
+### НАЧАЛО ОБМЕНА
+То, что делается в фильме, не всегда соответствует реальной жизни.
 
-Finally, the Mid West Exchange (founded by President Arthur Morgan
-of Antioch College), (2) and also an eastern exchange (The Emergency Exchange
-Association of New York City), have both become engaged in a plan to organize
-a nation-wide "hook-up" of exchanges, for the purpose of exchanging their
-regional surpluses.
+Тем не менее, такие начинания имеют место в реальной жизни при депрессии, кульминация которой пришлась на 1933 год, как
+раз в тот момент, когда я все это описываю. Началось с фермеров, у которых с одной стороны есть товары, от которых они
+хотят избавиться, а с другой - товары, которые они хотят получить, но не имеют денег для их покупки. В итоге они перешли
+к нестандартному обмену, - просто "меняются". Сначала они меняли свои товары на свои товары. Но им нужны и фабричные
+товары. Они стали ремонтировать те, что имеются, в ближайших поселениях, - находят безработных и меняют свои товары на
+их услуги. Безработные восприняли идею и скоро развернули аналогичное движение взаимопомощи, в которое стало вовлекаться
+все больше и больше людей из разных слоев общества.
 
-### PROGRESS IN THE METHODS OF SWAPPING
-The most rudimentary form of barter is perhaps that of the farmers at
-county fairs, where most of the goods and all of the dealers are in plain
-sight.
+Еще несколько месяцев назад число людей, полностью или частично вовлеченных в бартер, оценивалось в 250 тысяч, а
+сегодня - уже более миллиона. К тому времени, как эти быстро написанные слова выйдут в печати, последний показатель
+может также устареть. Еще недавно сообщалось о 200 бартерных сделках, совершаемых одновременно в 30 штатах. А сейчас в
+Нью-Йорк Таймс (1) опубликована оценка в более чем 400 обменов, и нет сомнения, что она тоже скоро устареет.
 
-Next comes the Exchange Warehouse, which you can visit alone, on isolated
-occasions, taking what you have and seeking what you want.
+И вот, наконец, Биржа Среднего Запада (основанная Артуром Морганом, (2) - президентом Колледжа Антиохии) вместе с
+восточной биржей (Нью-Йоркская ассоциация экстренного обмена) приступили к разработке плана общенационального
+"подключения" бирж в целях обмена своими региональными излишками.
 
-Then comes the "Swap Bulletin."
+### СОВЕРШЕНСТВОВАНИЕ МЕТОДОВ ОБМЕНА
+Самая элементарная форма бартера - это когда фермеры свозят свои товары на окружную ярмарку и простейшим образом
+договариваются между собой.
 
-Next the "Swap-Ad" appears; for the newspapers have taken the cue,
-and turned their "want columns" into "swap columns." "Get Swap Minded".
-says the Meriden Record. And the advertiser responds (these are actual
-cases):
+Далее идут склады обмена, куда вы можете прийти один по какой-то своей надобности, отдать туда, что имеете, и поискать,
+что вам нужно.
 
-"Swap: Radio Loudspeaker for Auto Clear Vision Mirror. Telephone 2501."
+Затем идет "Доска обмена".
 
-"Swap: Townsend Snow Plow, hand or motor drawn; Ideal for clearing
-Service Station property; swap for gasoline and oil. Phone 1205."
+Далее появляются объявления об обмене. Для газет это становится сигналом и они переименовывают свои "колонки желаний" в
+"колонки обмена". "Найдите единомышленников по обмену!", - призывают Записки Меридена и в объявлениях нет недостатка.
+Вот реальные примеры:
 
-"Swap: Seven room Shore Cottage at one of Connecticut's finest beaches,
-for a Farm."
+"Обмен. Радио-громкоговоритель на зеркало заднего вида автомобиля. Телефон 2501".
 
-"Swap: Man's Overcoat, in good condition, for Slide Trombone, Piccolo,
-or French Horn" (and I read this one after inventing my own trombone illustration!).
+"Обмен. Снегоочиститель Townsend. Тяга - ручная и моторная. Идеален для уборки и легко обслуживается. Меняю на бензин и
+масло. Телефон 1205".
 
-But even warehouses, bulletins and the press were not sufficiently
-convenient. They had to be supplemented by warehouse receipts, which can
-pass from hand to hand.
+"Обмен. 7-комнатный коттедж на берегу одного из лучших пляжей Коннектикута. Меняю на ферму".
 
-Finally, since money, however scarce, does still exist, some of the
-Exchange Associations conceived the idea of printing their certificates
-in money-denominations. By agreement, a dollar receipt does whatever a
-dollar would do if you had a dollar. These certificates have even been
-loaned by the associations issuing them.
+"Обмен. Мужское пальто в хорошем состоянии на сдвижной тромбон, пикколо или французский горн". (Я прочел это уже после
+написания своей сценки с тромбоном!)
 
-Perhaps the best example of such paper is to be found at Yellow Springs,
-Ohio, where some of the students of Antioch College use it to help pay
-not only their living expenses but their tuition, having earned the paper
-in any one of many places, just as they would earn more conventional money.
+Но ни склады, ни доски, ни пресса не являются удобным решением. Даже если дополняются складскими расписками, которые
+могут передаваться из рук в руки.
 
-It becomes more and more evident that, if there were no money, 1933
-could invent it all over again; and since Uncle Sam has developed a seeming
-incapacity to supply enough of it for even that amount of trade which is
-indispensable to keep his citizens from foraging like animals (or thieves),
-invention has reached the very threshold of money.
+И вот, наконец, так как деньги хоть и в недостаточном количестве, но все еще существуют, некоторые ассоциации обмена
+начинают печатать собственные сертификаты, номинированные в деньгах. Согласно соглашению, такая долларовая квитанция
+делает то же самое, что и доллар, как если бы у вас был этот доллар. Такие сертификаты можно даже брать в долг у той
+ассоциации, которая их выпустила.
 
-This brings me to the Stamp Scrip idea, invented in Europe and now
-spreading in America independently of the Swap idea. I hope the two will
-coalesce, and solve the "hook-up" problem, both for general reasons expressed
-in the foreword and also for the practical advantages listed in the appendix.
+Возможно, лучший пример таких бумаг можно найти в Йеллоу Спрингс в Огайо, где некоторые студенты Колледжа Антиохии
+используют их для оплаты не только своих личных расходов, но и своего обучения. Они могут заработать их в любом из
+множества мест, где этими бумагами расплачиваются вместо обычных денег.
+
+Становится все более и более очевидным, что если бы денег не существовало вовсе, в 1933 они были бы изобретены снова. И
+поскольку дядя Сэм не может предоставить достаточно денег хотя бы для такого объема торговли, чтобы люди не питались как
+животные (или воры), то нынешнее изобретение уже практически достигло уровня денег.
+
+Эти факты привели меня к идее марочных сертификатов, изобретенных в Европе и теперь распространяющихся в Америке
+независимо от идеи обмена. Надеюсь, что обе они сольются и решат проблему "подключения", как из общих соображений, так и
+из-за практических преимуществ, перечисленных во введении.
 
 ------
 
-(1) February 26, 1933.   
-(2) Also founder of the "Yellow Springs Exchange."
+(1) 26 февраля 1933 года.   
+(2) Он основал еще и "Биржу Йеллоу Спрингса".

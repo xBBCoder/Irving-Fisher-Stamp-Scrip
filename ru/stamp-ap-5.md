@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### V. CONGRESSMAN PETTENGILL'S SPEECH
+### V. РЕЧЬ КОНГРЕССМЕНА ПЕТТЕНГИЛЛА
 Without taking part at this time in the present debate about "inflation,"
 it is admitted by everyone that perhaps the most fundamental thing to be
 accomplished is to cause a recovery of values. Various expedients have

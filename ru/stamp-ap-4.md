@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### IV. STAMP SCRIP ADAPTED TO AN EMERGENCY SITUATION IN READING, PENNSYLVANIA
+### IV. МАРОЧНЫЕ СЕРТИФИКАТЫ, АДОПТИРОВАННЫЕ К ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ В РЕДИНГЕ, ПЕНСИЛЬВАНИЯ
 #### By Hans R. L. Cohrssen
 The Chamber of Commerce to issue a certain amount of dated stamp scrip
 to the city, school board, county, factories and the merchants. For the

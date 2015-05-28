@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### III. SUGGESTED FORMS
+### III. ПРЕДЛАГАЕМЫЕ ФОРМЫ
 #### Prospectus
 Adopted from form used by Mr. H. C. Parmelee, Fort Smith, Ark.
 

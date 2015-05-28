@@ -4,7 +4,7 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### VI. A BILL IN THE PENNSYLVANIA LEGISLATURE
+### VI. ЗАКОНОПРОЕКТ В ЛЕГИСЛАТУРЕ ПЕНСИЛЬВАНИИ
 Authorizing the issuance of scrip certificates for relief purposes by
 political subdivisions of this Commonwealth; providing for the printing
 and issuance of scrip and stamps by the Commonwealth, for the creation
