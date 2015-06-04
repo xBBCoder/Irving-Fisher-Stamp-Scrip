@@ -4,197 +4,147 @@
 
 ГЛАВА III. ОПИСАНИЕ МАРОЧНЫХ СЕРТИФИКАТОВ
 -----------------------------------------
-STAMP SCRIP is, as hitherto used, a temporary substitute for a part
-of the regular currency which has deserted. It is small in amount and short
-in duration.
+МАРОЧНЫЕ СЕРТИФИКАТЫ используются в настоящее время как временный суррогат настоящих денег, когда тех не хватает.
+Выпускается их немного и действуют они недолго.
 
-The two points about Stamp Scrip are:
+Марочные сертификаты имеют два следующих свойства:
 
-First: It is like money, because it can be banked OR invested OR spent.
+Во-первых, они похожи на деньги, так как на них можно продавать и покупать, их можно инвестировать.
 
-Second: It is unlike money, because IT CAN NOT BE HOARDED.
+Во-вторых, они не похожи на деньги, так как ИХ НЕ ПРИБЕРЕЖЕШЬ НА ЧЕРНЫЙ ДЕНЬ.
 
-For the stamps, as we shall see, compel Stamp Scrip to "step lively."
+Как мы увидим далее, марки заставляют марочные сертификаты "поторапливаться".
 
-A piece of typical Stamp Scrip is shaped more or less like a dollar
-bill; but it can not be mistaken for conventional money, because the color
-and the design are distinctive. Usually it bears on its face the name of
-an exchange or of a business men's association or of a town, according
-to which of these is the source of issue in the particular case. But though
-the appearance is distinctive, scrip bears prominently a statement of its
-denomination, to equalize its purchasing power (by agreement) with the
-purchasing power of conventional money. In fact, it is a part of the agreement
-that, after a year of circulation, it is to be redeemed in money.
+Типичная купюра марочного сертификата оформляется более или менее аналогично доллару. Но она не может быть принята по
+ошибке за обычные деньги, так как отличается цветом и дизайном. На лицевой стороне такой купюры как правило написано
+название биржи или ассоциации деловых людей или города в зависимости от того, кто выпустил сертификат в обращение в
+данном конкретном случае. На сертификате также написан его номинал в обычных деньгах, сообщающий о его покупательной
+способности согласно договоренности. Разумеется, написание номинала может отличаться на разных сертификатах. По сути,
+сертификат является частью договора, согласно которому по прошествию года его обращения, он должен быть погашен деньгами
+на указанную сумму.
 
-Before turning the scrip over to examine the stamps on the reverse
-side, let us consider the circumstances of its issue and how it becomes
-injected into the circulation. A typical case is that of a municipality
-which issues $1000 in scrip as a sheer addition to the circulating medium
-of the town. Its circulation will be entirely local, and the initial use
-of it will be to hire a new group of workmen on a new municipal job. Naturally
-the town must first get the agreement of the workmen and also that of a
-reasonable number of the local merchants from whom the workmen buy their
-family supplies - an agreement to the effect that all will accept the scrip
-according to its face. It is by no means necessary to get everybody's agreement.
-If some of the business houses accept it, the rest will be forced by competition
-to do the same; and if a number of people begin to accept it, the others
-will accept it because everybody else accepts it.
+Прежде, чем мы перевернем сертификат и увидим марки на его оборотной стороне, рассмотрим обстоятельства его выпуска и
+то, как он вводится в обращение. Типичный случай, когда муниципалитет выпускает сертификаты на $1000 в качестве
+дополнения к деньгам, обращающимся в городе. Тираж является полностью местным и используется для того, чтобы нанять
+новую группу рабочих на новую муниципальную работу. Естественно, что сначала город должен получить согласие работников и
+разумного числа местных торговцев, у которых рабочие покупают товары для своих семей, - согласие на то, что все будут
+принимать эти сертификаты соответственно номиналу на лицевой стороне. Это никак не означает, что необходимо получить
+согласие каждого. Если несколько торговых домов примут их, то остальные из соображений конкуренции тоже будут вынуждены
+делать то же самое. И если сколько-то людей согласятся на них, то и остальные согласятся, потому что все остальные
+согласились.
 
-But this agreement will not readily be forthcoming without a guaranty
-from the town that, after a certain period of circulation (usually one
-year), the scrip will be redeemed in cold cash. So the town agrees to this,
-and sets to work to gather the $1000 of cold cash before the expiration
-of the scrip. The town has a year to work in; and it works by means of
-what might be called a sort of "ambulatory tax" on the circulation of the
-scrip itself.
+Но достичь этого согласия будет нелегко, если город не гарантирует, что после определенного времени обращения (как
+правило, один год) он не выкупит сертификаты за настоящие деньги. Поэтому город соглашается на это и принимается за
+работу, чтобы изыскать настоящие $1000 до истечения срока действия сертификатов. На это у города есть целый год, и он
+целый год занимается тем, что взимает своего рода "налог на хождение" своих собственных сертификатов.
 
-We now look at the reverse side of the scrip, and there we find a row
-of 52 spaces, all dated to indicate the successive Wednesdays of the year.
-Each of these spaces provides room for a small adhesive stamp somewhat
-resembling a postage stamp. The stamps are sold by the city for 2 cents
-each; and it is a part of the plan initially agreed to by all, that no
-one can pass the scrip on a Wednesday unless it has, attached to it, the
-stamp for that day on the appropriate dated space. Neither can you pass
-it if it is in arrears for past Wednesdays - you have to make up the arrears;
-for if you try to pass it unstamped, the next recipient will laugh in your
-face. He does not propose to be "stuck" by the neglect of previous holders.
-Either you have all the stamps on up to date or he is free to refuse the
-scrip. Therefore, you not only have the stamps on, but, being as shrewd
-as the next man, you have already been as hard on your predecessor as your
-successor is prepared to be hard on you. There simply are no arrears.
+Теперь взглянем на оборотную сторону сертификата и увидим там таблицу из 52 ячеек, в которые последовательно вписаны
+даты, которые приходятся в текущем году на среду. Каждая такая ячейка является местом для наклеивания маленькой марки,
+несколько напоминающей почтовую. Марки продаются городом по 2 цента за штуку. Согласно плану, на который все
+согласились, в каждую очередную среду сертификат может продолжить обращение только в том случае, если в ячейку,
+соответствующую этой среде, наклеена марка. Вы не можете пропустить ни одну среду, - на каждую должна быть наклеена
+марка. Если у вас будет наклеено недостаточно марок, получатель рассмеется вам в лицо. Он не будет "клеить" за прежних
+владельцев. Либо на вашем сертификате есть все марки по текущую дату, либо он вправе отказаться его принимать. Таким
+образом, вы не только приклеите марки, но и, будучи таким же умным, как и следующий владелец сертификата, будете таким
+же строгим к его предыдущему владельцу. На нем не должно быть задолженности.
 
-But if the scrip is duly stamped up to date including the last Wednesday
-it will pass freely without any new stamp until next Wednesday.
+А если на сертификат наклеены все марки до последней среды включительно, то он будет свободно приниматься вплоть до
+следующей среды.
 
-At the end of the 52 weeks of the allotted year, when a dollar of scrip
-returns to the city treasury for redemption, it finds there the $1.04 which
-paid for the 52 stamps now carried on the back of the certificate. In short,
-when the 1000 dollar issue of scrip thus comes in, it finds $1040 there
-ahead of it; and the extra $40 defray the expense of printing the stamps
-and of administering the plan.
+В конце 52-й недели соответствующего года, когда сертификат возвращается городу для выкупа, в городской казне находится
+$1.04, которые были уплачены за 52 марки, наклеенные теперь на оборотную сторону этого сертификата. Короче говоря, когда
+выпуск сертификатов на 1000 долларов возвращается, город уже собрал $1040 для их выкупа. Лишние $40 покрывают расходы на
+печать сертификатов и марок, а также на администрирование проекта.
 
-Thus the scrip is self-liquidating.
+Таким образом, сертификат является самоликвидирующимся.
 
-Lest, however, the workmen and the trades people may not agree to the
-plan unless the town puts up security, the town may do this by a simple
-bookkeeping transaction at the bank; that is, it borrows $1000 from the
-bank and leaves it in the bank on deposit, to guarantee the scrip-using
-public. When, at the end of the allotted year, the scrip is redeemed to
-the satisfaction of the bank, the loan is cancelled, and the city is out
-nothing. Neither has $1000 of permanent legal tender been withdrawn from
-circulation in order to be replaced by the $1000 of temporary Stamp Scrip -
-because the bank made it a mere bookkeeping transaction. It did not lock
-up the $1000.
+Однако, рабочие и торговцы могут не согласиться с этим планом, пока город не предоставит больше гарантий его
+безопасности. Тогда город может сделать это с помощью простой бухгалтерской проводки в банке. Он может занять в банке
+$1000 и положить их в том же банке на депозит в качестве гарантии для общественности, использующей сертификаты. В конце
+соответствующего года сертификаты будут погашены соответственно требованиям банка, кредит отменен и город останется ни с
+чем. Это не будет означать, что $1000 настоящих легальных денег будут выведены из оборота и заменены временными
+марочными сертификатами на $1000, так как банк всего лишь выполнил бухгалтерскую проводку. Он не блокирует $1000.
 
-There are cases, however, when the legal tender money is actually bundled
-up and kept as a guarantee in a safety deposit box in the bank, until the
-year is over and the scrip redeemed. But the $1000 of legal tender thus
-tied up is a slow-moving currency which everybody has been hoarding, while
-the $1000 of scrip which temporarily supplants it is a fleet-footed currency
-which nobody can hoard.
+Бывают, однако, и такие случаи, когда определенная сумма легальных денег действительно прячется в банковском сейфе в
+качестве гарантии до тех пор, пока год не закончится, и сертификаты не будут выкуплены. В данном случае из обращения
+выпадают $1000 законных денег, которые и без того плохо обращаются и лежат в кубышках без движения. А вместо них в
+оборот временно вводятся сертификаты на $1000, - более быстроходная валюта, которую никто не будет копить.
 
-Why not? What is the secret of this extra speed on the part of Stamp
-Scrip? The secret resides in each stamp due on a Wednesday. You learn to
-watch Wednesday coming; and, realizing that Wednesday is tax day, you buy
-what you want before that day, on Thursday or Friday or Saturday or Sunday
-or Monday or Tuesday - and so does the next recipient, unless you "stick"
-him late on Tuesday night. That is, you do your buying, so far as possible,
-in the intervals between stamping days (Wednesdays) in order to escape
-the 2 cent stamp tax which you would otherwise have to pay.
+Почему нет? И в чем секрет повышенной скорости обращения марочных сертификатов? Секрет кроется в марке, приклеиваемой к
+сертификату каждую среду. Чтобы избежать налога, вы приучаетесь следить за приближением среды и делать покупки до ее
+наступления - в четверг, пятницу, субботу, воскресенье, понедельник или вторник. То же самое делает следующий владелец
+сертификата, если только вы не всучите ему свой сертификат во вторник поздно вечером. То есть, вы стараетесь делать
+покупки между днями наклейки марок (по средам), чтобы избежать 2-центового марочного налога, который иначе придется
+заплатить.
 
-Of course, if there is nothing which you ought to buy, you can invest
-the scrip in any enterprise, or deposit it in any bank, which is a party
-to the initial agreement to use the scrip.
+Разумеется, если вам ничего не нужно покупать, вы можете инвестировать сертификат в любое предприятие или положить его
+на депозит в любой банк, который участвует в соглашении об использовании сертификатов.
 
-Meanwhile the extra speed is of the utmost benefit in a depression
-when everyone is afraid to spend real money.
+Между тем, высокая скорость обращения имеет первостепенное значение в условиях депрессии, когда все боятся тратить
+настоящие деньги.
 
-I have spoken of the stamp as constituting a sort of ambulatory tax.
-Please note that even the best people always dodge a tax if they honestly
-can. Sometimes the effort to dodge has been fatal. In France, for instance,
-many years ago, there was a window tax. It led people to build houses with
-few windows or even windowless houses, and in consequence, to die of tuberculosis.
-They dodged the tax and they did it without dishonesty, but nevertheless
-they brought on their own doom. This tax was not only painful but destructive.
+Я уже говорил о марке, как о своего рода налоге за простой. Заметьте, что даже лучшие из людей всегда готовы увернуться
+от налога, если могут это сделать честно. Попытки увернуться иногда приводят даже к смертельному исходу. Например, во
+Франции когда-то существовал налог на окна. В результате люди стали строить дома с меньшим количеством окон или даже
+вообще без окон. И, в итоге, умирали от туберкулеза. Они избежали налога и сделали это честно, но заплатили за это
+своими жизнями. Этот налог оказался не только тягостным, но и пагубным.
 
-In Stamp Scrip we have, for perhaps the first time in history, a tax
-which the taxing authority wants to see avoided - by the maximum number
-of people. For, by passing the tax on to the next fellow you speed the
-scrip, and that is the chief purpose. Moreover, the more you speed it,
-the more you divide the burden per capita without in the least diminishing
-the return to the city. Suppose, for instance, that a grocer during a certain
-week (of six business days) receives and pays out sixty dollars of scrip.
-Fifty of these dollars may have come and gone on the five business days
-intervening between Wednesdays. Thus he is taxed, not 2 cents per dollar
-of sales but perhaps 1/6 of a cents, which amounts, to a sales-tax of one-third
-of one per cent on the sales put through with the help of the scrip. And
-most of these sales are extra. The grocer is taxed for new business which
-only the scrip could bring him. This tax is not only painless but helpful.
+В случае марочных сертификатов мы, возможно, впервые в истории имеем такой налог, что налоговые органы хотят увидеть
+максимальное количество народа в рядах избегающих. Так как в попытке спихнуть налог следующему приятелю вы ускоряете
+сертификат, а именно это и является главной целью. Более того, чем сильнее вы его ускоряете, тем меньшее бремя ложится
+на душу населения, при том что доходы города никак не уменьшаются. Допустим, например, что в течение какой-то недели
+(шесть рабочих дней) бакалейщик получил и отдал шестьдесят долларов сертификатами. Из них пятьдесят долларов пришлись на
+пять рабочих дней между средами. Таким образом, за каждый доллар продаж он платит не 2 цента, а всего 1/6 цента, что
+можно воспринимать как налог с продаж величиной в одну треть одного процента продаж с помощью сертификатов. К тому-же
+большинство этих продаж являются дополнительными. Бакалейщик облагается налогом в новом бизнесе, который только
+сертификаты смогли ему принести. Этот налог не столько тягостен, сколько полезен.
 
-The efficiency of money is its volume multiplied by its speed. What
-is the speed of scrip? At the very least, the average scrip certificate
-will be unloaded twice a week - a speed that is four times the speed of
-an average dollar in normal times. In depression times, the average dollar
-circulates only about a third as fast as usual so that a turnover of twice
-a week becomes twelve times the depression average for conventional money.
+Эффективность денег - это произведение их объема на скорость. Какова скорость сертификата? Сертификат передается в
+среднем два раза в неделю. Эта скорость не менее чем в четыре раза превосходит скорость доллара в обычное время. В
+условиях депрессии скорость обращения доллара составляет не более трети от обычной, так что два оборота в неделю - это в
+двенадцать раз больше средней скорости обычных денег во время депрессии.
 
-This, of course, does not mean that actually 12 times the business
-will be done; for Stamp Scrip never becomes a large proportion of the total
-circulation. Moreover, a fraction of the conventional currency will withdraw
-from circulation in favor of the Scrip.
+Это, конечно, не означает, что бизнеса станет в 12 раз больше, - марочные сертификаты никогда не составят большой доли в
+общем обороте. Кроме того, в пользу сертификатов из обращения изымается часть традиционной валюты.
 
-Thus, the stamp is more like a tax on hoarding than a sales tax. Hoard,
-and the tax is heavy; spend (or invest or deposit), and the tax is light.
+Таким образом, марки больше напоминают налог на накопительство, чем налог с продаж. Если хранить, - этот налог тяжел, а
+если тратить (или инвестировать, или положить на депозит), этот налог легок.
 
-If the stamp is thus to be likened to a tax, the scrip itself may well
-be likened to money. But it were more appropriate, I think, to liken the
-scrip to a pre-dated check, issued by the town. It has even been proposed
-that the scrip, in small amounts, be given away to needy folk, or to everybody,
-in which case, though it would be a gift to the first recipients, it would
-really be a loan to the public as a whole -a loan to the public by the
-public. In any view, the scrip goes out and comes back and is cancelled
-like a check, except that it passes through more hands and without endorsement.
+Если марку можно уподобить налогу, то сертификат можно уподобить деньгам. Но на мой взгляд, сертификат больше похож на
+предварительный чек, выпущенный городом. Было даже предложение выпускать сертификаты в небольших количествах и раздавать
+их нуждающимся или вообще всем. Для первых получателей это было бы подарком, а вообще - кредитом для общества в целом,
+кредитом обществу от общества. Но в любом случае, сертификаты уходят, возвращаются и аннулируются подобно чекам с той
+лишь разницей, что проходят через большее число рук и не имеют индоссамента.
 
-Nor is it a case of something for nothing. It is a case of a restored
-transfer belt, transferring not something for nothing, but goods for goods,
-goods for services, services for goods.
+И этот случай чеков не бесполезен. Он восстанавливает приводной ремень, который крутится не просто так, а обеспечивает
+обмен товаров на товары, товаров на услуги и услуг на товары.
 
-Charles Zylstra, the enterprising man who first introduced Stamp Scrip
-to America (in a small western town) tells this story. A travelling salesman
-stopped at a hotel and handed the clerk a hundred dollar bill to be put
-in the safe, saying he would call for it in twenty-four hours. The clerk,
-whose name was A, owed $100 to B and clandestinely he used this bill for
-the liquidation of his debt, thinking that before the expiration of 24
-hours he could collect $100 from his own debtor, whose name was Z. So this
-100 dollar bill went to B, who, greatly surprised, used it to pay his own
-100 dollar debt to one C, who (equally surprised) . . . and so on, and
-so on, all the way down to Z, who, with much pleasure, returned the bill
-to A, the clerk, who, in the morning, restored it to the salesman. And
-then did A, the clerk, stand petrified with horror to see the salesman
-light a cigar with it.
+Чарли Зилстра, - предприимчивый человек, первым предложивший марочные сертификаты в Америке (в маленьком западном
+городке), - рассказал следующую историю. Один коммивояжер остановился в гостинице и вручил клерку стодолларовую купюру,
+чтобы тот положил ее в сейф. Постоялец сказал клерку, что заберет ее в течении двадцати четырех часов. Клерк, которого
+звали A, был должен $100 человеку по имени B и воспользовался купюрой для погашения долга, рассчитывая, что в течении 24
+часов сможет взыскать $100 со своего должника по имени Z. Когда B получил 100-долларовую купюру, он сильно удивился и
+использовал ее в уплату 100-долларового долга перед C. Последний удивился не меньше и ... и т.д. и т.п. вплоть до Z,
+который с удовольствием вернул свой долг A, - клерку, который на следующее утро вернул купюру коммивояжеру. Постоялец
+поджег купюру и прикурил ею сигару. - Клерк окаменел от ужаса.
 
-"Counterfeit," said the salesman, "a fake gift from a crazy friend,
-Abner; but he didn't put it over, did he?"
+"Фальшивка," - объяснил торговец - "дурацкий подарок от сумасшедшего друга Абнера. Но он мог бы и предупредить, не так
+ли?"
 
-Let us now look at the collective result. At the end of the year, the
-town has a new street, paid for with scrip which (through the stamps) was
-paid for by the citizens who used the scrip - and will use the street too.
+Давайте теперь взглянем на общественный результат. К концу года город имеет новую улицу, заплатив за нее сертификатами,
+которые были посредством марок оплачены горожанами, которые использовали сертификаты, а также и новую улицу.
 
-The scrip cost the citizens perhaps 1/3 of 1 per cent on mostly new
-business, while the street cost the city (in the sense of the city treasury)
-nothing at all. But, of course, the city is the citizens; so that these
-various statements boil down to this: The citizens have bought a new street
-out of a self imposed tax on mostly new business, and it was a tax less
-heavy and more spread out than any other tax they ever paid.
+Сертификат, возможно, стоил горожанам 1/3 от 1 процента в главным образом новом бизнесе, в то время как улица вообще
+ничего не стоила городу (в смысле - городской казне). Но, конечно, город - это его горожане. Так что правильнее было бы
+сказать так: Горожане купили новую улицу, за счет собственного налога на преимущественно новый бизнес. Причем этот налог
+был менее тяжел и шире распространен, чем любой другой налог, который они когда либо платили.
 
-The chief objection to Stamp Scrip which I have thus far encountered
-is that it will not work because people will refuse it - it will not catch
-hold. But the man who said this, said later, "I guess I must be like the
-Englishman a hundred years ago, who said that the steam-locomotive couldn't
-work because smooth wheels could not catch on to smooth rails. While he
-was saying this in London, Stephenson was successfully running his locomotive
-in Scotland." Very often people are saying of a certain thing, "it can't
-be done" at the very moment that somebody else is doing it.
+Главным возражением против марочных сертификатов, с которым я до сих пор сталкивался, было то, что они не будут
+работать, так как люди отвергнут их, сертификаты не будут ходить. Но человек, который это сказал, позже признался: "Я
+понял, что оказался в роли англичанина, который сто лет назад заявил, что паровоз не будет работать, потому что гладкие
+колеса не смогут цепляться за гладкие рельсы. Пока он утверждал это в Лондоне, Стивенсон успешно запустил свой локомотив
+в Шотландии". Люди очень часто утверждают, что "это невозможно" как раз в тот момент, когда кто-то другой уже делает
+это.
 
-Let us look now at the existing evidence that Stamp Scrip has caught
-on and has worked per schedule.
+Давайте теперь посмотрим доказательства того, что марочные сертификаты успешно прижились и работают по расписанию.
+

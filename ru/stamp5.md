@@ -147,49 +147,37 @@ Merchants Association" (Эванстонская независимая ассо
 разнообразие занятий в городе. После выплаты рабочим сертификаты скопились в руках трех или четырех торговцев. Так что
 "после первых сделок их значение кажется весьма проблематичным".
 
-### ENID, OKLAHOMA (12)
-On January 16, 1933, the Merchants Association issued 1700 one-dollar
-"Trade Checks" with dateless stamps. After one month, the Association reports:
-"We regard the plan as successful thus far, as the unemployed are eager
-to work for this kind of money, and our business men are cooperating almost
-100 per cent . . . . We do find it necessary to stress the necessity for
-each business man to distribute the checks he receives widely by paying
-a few on local bills, giving his employees a few on their salary, and using
-them himself for personal expenditures, rather than unloading them all
-on one concern at once.
+### ЭНИД, ОКЛАХОМА (12)
+16 января 1933 года Ассоциация торговцев выпустила 1700 одно-долларовых "торговых чеков" с недатируемыми марками. Спустя
+месяц ассоциация сообщила: "Мы расцениваем свой план как успешный. Безработные готовы работать за деньги такого вида, а
+наши бизнесмены сотрудничают с нами почти в 100-процентном составе. ... Считаем необходимым подчеркнуть, что каждый
+бизнесмен может содействовать распространению этих купюр. Получив сколько-то чеков он может частично тратить их на
+зарплату сотрудников и частично - на свои личные расходы. Более широкое распределение чеков снимает какое-либо
+беспокойство по их поводу".
 
-"We have had no trouble in getting the merchants to affix the stamps.
+"У нас не возникло каких-либо проблем в том, чтобы торговцы приклеивали марки".
 
-"We find that the checks circulate not only among the merchants, but
-individuals accept them, buy stamps from the merchants and pass them on;
-they have been used to pay insurance premiums to local agents, rents, etc.
+"Мы находим, что чеки обращаются не только среди торговцев, но и среди прочих лиц, которые покупают марки у торговцев и
+сами наклеивают их. Чеки используются для выплаты страховых премий местным агентам, выплаты ренты и др."
 
-"One of our banks subscribed $50 toward the guaranty fund which we
-have behind the checks, another accepted ten of the checks in part payment
-for a month's rent by a tenant of an office in their building, and the
-other bank has expressed no opposition."
+"Один из наших банков вложил $50 в гарантийный фонд, которым обеспечиваются наши чеки. Другой - принял десять чеков в
+счет оплаты месячной ренты от арендатора офиса в их здании. Третий банк также не выдвигал никаких возражений против
+чеков".
 
-### KNOXVILLE, TENNESSEE (13)
-Tax anticipation warrants are themselves a sort of scrip; and the experience
-of Knoxville in the use of such warrants is instructive. The city, being
-unable to find cash for both pay roll and bond payments, began, on June
-14, 1932, to use these tax warrants for the pay roll.
+### НОКСВИЛЛ, ТЕННЕССИ (13)
+Ордера ожидаемого налога сами по себе являются разновидностью сертификатов, и опыт Ноксвилля в использовании таких
+ордеров весьма поучителен. Будучи не в состоянии одновременно оплачивать счета и заработную плату, 14 июня 1932 года
+город начал использовать налоговые ордера для оплаты счетов.
 
-To circulate fast, any medium requires a receiving motive on the part
-of the recipient, and a transmitting motive, on the part of the user, to
-hurry it along. The motive to receive the Knoxville tax warrants is supplied
-in part by the relative scarcity of conventional money, and in part by
-the 6 per cent interest carried by these warrants. The motive to hurry
-them along seems to be supplied by the fact that the warrants cannot be
-deposited in banks.
+Для ускорения оборота любых платежных средств требуется заинтересованность части получателей в их получении и
+заинтересованность части плательщиков в их скорейшей передаче. Заинтересованность получателей была частично обеспечена
+нехваткой обычных денег, и частично - 6-процентной выгодой, предоставлявшейся этими ордерами. Для мотивации плательщиков
+был наложен запрет на хранение этих сертификатов в банке.
 
-Also the tax warrants are themselves usable to pay taxes (60 days after
-issue), and on taxes thus paid in advance, the citizen gets a 5 per cent
-discount, in addition to a credit for the 6 per cent interest already due
-on the warrant, making sometimes a saving of 11 per cent on the tax. The
-assistant finance director, Mr. Herbert Cox, says that "during the last
-two months warrants have been coming back to the city in taxes faster than
-the new ones are issued."
+Сами по себе налоговые ордера использовались также для уплаты налогов (через 60 дней после выпуска). На уплаченные
+заранее налоги гражданин получал скидку в 5 процентов. Плюс к этому - 6 процентов кредитных платежей за ордер. Иногда
+это позволяло сэкономить до 11 процентов налогов. Мистер Герберт Кокс, - помощник финансового директора, - сказал по
+этому поводу: "Последние два месяца ордера в виде налогов возвращаются городу быстрее, чем выпускаются новые".
 
 But the warrants circulate for all other purposes. A motor company
 even sold the city six automobiles for $3000 in city warrants as part payment,
