@@ -179,116 +179,82 @@ Merchants Association" (Эванстонская независимая ассо
 это позволяло сэкономить до 11 процентов налогов. Мистер Герберт Кокс, - помощник финансового директора, - сказал по
 этому поводу: "Последние два месяца ордера в виде налогов возвращаются городу быстрее, чем выпускаются новые".
 
-But the warrants circulate for all other purposes. A motor company
-even sold the city six automobiles for $3000 in city warrants as part payment,
-the balance being old cars "traded in." And nearly all the local merchants
-and other interests receive the warrants, in whole or part-payment, for
-goods and accounts due, and make change, either in money or in credit on
-the next transaction (the credit being evidenced by the due bills of the
-merchants). To facilitate making change, the city is considering the issuance
-of 25- and 50-cent denominations.
+Но ордера обращаются и для других целей. Моторная компания даже продала городу шесть автомобилей взяв в качестве части
+оплаты ордера на $3000, а остальное засчитав в качестве выкупа за старые автомобили. И почти все местные торговцы и
+прочие предприниматели принимают ордера в полную или частичную оплату товаров и дебиторской задолженности, меняют на
+деньги и выдают ими кредиты. Для облегчения обмена город рассматривает введение ордеров в номинале 25 и 50 центов.
 
-"What about velocity? Aside from the financial embarrassments of the
-city government, business in general had been handicapped by the closing
-of two large national banks. Yet the merchants of Knoxville have noticed
-that the tax warrants offset these handicaps by circulating faster than
-money; and they testify that the extra speed has furnished a stimulus to
-business.
+Как на счет скорости? Помимо финансовых затруднений городских властей, большой удар по бизнесу в целом нанесло закрытие
+двух крупных национальных банков. Тем не менее, торговцы Ноксвилла заметили, что налоговые ордера могут компенсировать
+указанные проблемы за счет того, что оборачиваются быстрее денег. Их дополнительная скорость хорошо стимулирует бизнес.
 
-### VARIANTS
-Four other variants of the Stamp Scrip idea have come to my attention:
+### ВАРИАНТЫ
+Я обратил внимание еще на четыре варианта реализации идей, похожих на марочные сертификаты:
 
-(I) A piece of unexpected but profitable comedy occurred in Tenino,
-Washington. A bank had failed; and the local Chamber of Commerce bought
-up a part of the distributive shares of the depositors, paying for these
-not with scrip, but with redeemable wooden coins in small denominations.
-These coins were regarded as curiosities, and soon became eagerly sought
-after as souvenirs. So the Chamber was soon able to negotiate them at $2.50
-a piece! The upshot was that with $6500 of profit, it was able to buy the
-building of the defunct bank and invite another banking corporation to
-become the tenant and restore a banking service to the town.
+(I) Сцена неожиданной, но прибыльной комедии разыгралась в Тенино, Вашингтон. Разорился банк, и местная Торговая палата
+выкупила часть его депозитных счетов у вкладчиков, заплатив за них даже не сертификатами, а деревянными монетами мелких
+номиналов. Эти монеты были восприняты как курьезная редкость, и скоро каждый начал искать их в качестве сувениров.
+Вскоре палата начала продавать их по цене $2.50 за штуку! В итоге удалось получить $6500 прибыли, которых хватило на то,
+чтобы выкупить здание бывшего банка и пригласить другую банковскую корпорацию, которая взяла это здание в аренду и
+возобновила банковское обслуживание города.
 
-(II) The second variant is called the "Baby Bond" plan such as that
-of J. Rice Scott of Miami, Fla. The bonds are in covers resembling those
-of a small check book. The denominations run from $5 to $100. The bonds
-are supposed to circulate like money and be stamped with each transfer
-at 2 per cent of the face, until there have been fifty or more turnovers,
-when the bonds are redeemed by the issuing organization. There is no particular
-logic in calling these booklets "bonds." The idea is the same as the Hawarden
-idea, the only difference being the larger denominations.
+(II) Второй вариант называется "детская облигация" и придумал ее Дж. Райс Скотт из Майами, Флорида. Эти облигации
+выпускаются в обложках, напоминающих маленькие чековые книжечки. В номиналах от $5 до $100. Такие облигации допускаются
+к обороту аналогично деньгам и при каждой передаче на их лицевую сторону наклеивается марка в 2 процента. После
+пятидесяти или более оборотов эти облигации выкупаются выпустившей их организацией. Особого смысла называть эти буклеты
+"облигациями" нет, - их идея та же самая, что и у хаварденских сертификатов. Они отличаются только большими номиналами.
 
-(III) A third variant is a plan which makes no use of stamps at all,
-but in order to bring about the extra stimulus to turnover, provides that
-a certain percentage of the buying power of the scrip shall drop off or
-evaporate at stated intervals. This plan has recently been tried in both
-Germany (14) and America, but is very inconvenient. It requires a special
-computation for each transfer, it complicates bookkeeping and is apt to
-repel the next recipient with the unpleasant idea of progressive depreciation.
-I doubt if any bank would be bothered with such scrip. The American experiment
-along this line was that of the "Threefold Corporation" of New York," which
-has now abandoned it in favor of Stamp Scrip.
+(III) В третьем варианте марки не нужны, но для стимулирования оборачиваемости запланировано, что сертификат теряет
+определенный процент покупательной способности через установленные промежутки времени. Недавно такой план пытались
+осуществить как в Германии, (14) так и в Америке, но он оказался очень неудобным. Он требует определенных вычислений при
+каждой передаче, что усложняет бухгалтерию, и сталкивает каждого очередного получателя с неприятными мыслями о
+прогрессирующей амортизации. Я сомневаюсь, что найдется банк, согласный работать с такими сертификатами. Американский
+эксперимент проводился нью-йоркской "Тройной корпорацией". Сейчас она отказалась от этой идеи в пользу марочных
+сертификатов. (15)
 
-Another rather original application of the principle of "compulsory"
-circulation is the "Speed Money" which the zealous adherents of the German-Wära
-movement started, after the Government had interfered with their issuance
-of Stamp Scrip. A Dr. Nordwall, of Norden in Germany advertised in the
-local paper one day that he would give to Reichsmark to the first man to
-come to his office owing someone else that amount. The money was not to
-be given away but could only be used to cancel the debt. Inseparable from
-the 10-Reichsmark bill was a messenger boy on a bicycle. All that A, the
-lucky recipient of Dr. Nordwall's 10 RM. had to do was to send the boy
-to his creditor, B; but B did not get the cash either. He had to tell the
-boy to whom he owed money, and thus the 10 RM came to C, who sent it to
-D, and so on, down the line. In the late afternoon the boy had to trust
-his last "customer" with the bill, after he received the promise to have
-it handed back to him the next morning. He then got a receipt stating that
-he had actually left the money. With this receipt he could go to the last
-but one, proving that his debt was paid, getting this man's receipt for
-the previous customer. Thus he finally returned to the first, having cancelled,
-perhaps 120.-Reichsmarks of debt, getting a small commission from each
-debtor for this debt-cancelling service. Instead of a pen penalty for hoarding,
-the hungry stomach of the messenger boy sped up the circulation of this
-money. The scheme was actually operating, and perhaps it still is, although
-I do not know how successfully.
+(IV) Другим весьма оригинальным приложением принципа "принудительного" обращения являются "скоростные деньги", проект
+которых начали ревностные приверженцы немецкого движения Вара после того, как правительство запретило им выпуск марочных
+сертификатов. Однажды д-р Нордвалл из города Норден в Германии дал объявление в местной газете, что даст 10 рейхсмарок
+первому человеку, который придет в его офис, если он должен эту сумму кому-то другому. Условием было то, что эти деньги
+не могут быть потрачены как-то иначе, кроме как на погашение долга. Причем вексель на 10 рейхсмарок был неотделим от
+посыльного на велосипеде. Все, что мог сделать A, - счастливый получатель 10 РМ от д-ра Нордвалла, - это послать парня к
+своему кредитору B. Однако и B не мог получить наличные деньги. Он сообщил парню, кому он сам должен деньги и, таким
+образом, 10 РМ отправились к C, который послал его к D и так далее. Во второй половине дня парень доверил вексель своему
+последнему на сегодня "клиенту", обещая, что вернется за ним на следующее утро. А этот последний клиент дал ему расписку
+в том, что посыльный на самом деле оставил деньги. С этой распиской тот ехал до предыдущему, доказывал ему, что его долг
+оплачен и получал от этого человека расписку для пред-предыдущего клиента. Таким образом, он, наконец, возвратился к
+первому, погасив, пожалуй, 120 рейхсмарок долга. Причем с каждого должника он получал небольшую комиссию за услугу
+отмены долга. Вместо штрафа за хранение скорость обращения этих денег обеспечивалась голодным желудком посыльного. Эта
+схема реально работала и, возможно, работает до сих пор, хотя я не знаю, насколько успешно.
 
-### PROSPECTS
-From a correspondence with four or five hundred communities in every
-state of the Union, and from other sources of information,(16) I gather
-that there is now a definite turn toward the Woergl or dated type of Stamp
-Scrip.
+### ПЕРСПЕКТИВЫ
+Из переписки с четырьмя или пятью сотнями общинами во всех штатах нашего Союза, а также анализируя другие источники
+информации (16) я понял, что теперь мы должны сделать решительный поворот в сторону вёрглевской модели, т.е. к
+датируемому типу марочных сертификатов.
 
-Dothan, Alabama, a town of 16,000 inhabitants, has issued Stamp Scrip
-of the dated type.
+Город Дотхэм в Алабаме с населением в 16000 жителей выпустил марочные сертификаты датируемого типа.
 
-St. Paul, a city of over a quarter of a million inhabitants, has decided
-(as soon as it can get the authority required by law from the Minnesota
-legislature), to issue $100,000 of Stamp Scrip of the dated type.
+Сент-Пол, город, в котором проживает свыше четверти миллиона человек, решил выпустить марочные сертификаты датируемого
+типа на $100000, как только легислатура Миннесоты примет необходимый для этого закон.
 
-Over a hundred other municipalities (17) including a fair proportion
-of large cities, are seriously considering the issue of Stamp Scrip of
-the dated type.
+Свыше сотни других муниципалитетов, (17) включая и определенную долю крупных городов, серьезно рассматривают вопрос о
+выпуске марочных сертификатов датируемого типа.
 
-In Kansas, a bill is pending in the State Legislature which, if passed,
-will authorize localities to use scrip and will insure uniformity in the
-issues (although not of the dated type, unless an amendment can be secured).
+В Канзасе на рассмотрении легислатуры штата находится законопроект, который, если будет принят, разрешит населенным
+пунктам использовать сертификаты и введет единообразие в их выпуски (хотя и недатируемого типа, но это можно будет
+изменить поправкой).
 
-In the state of Iowa, a bill has been passed authorizing the State
-itself to issue the scrip and to distribute it among cities and counties.
-(Here, too, the scrip will be the undated type unless the proposed law
-be amended.)
+В штате Айова был внесен законопроект, разрешающий самому штату выпускать сертификаты и распределять их среди городов и
+округов. (Здесь тоже сертификаты будут недатируемого типа, пока предлагаемый закон не будет исправлен.)
 
-Seven or more other state governments are seriously considering scrip
-projects.
+Семь или более других штатов серьезно рассматривают проекты выпуска сертификатов.
 
-On February 17, 1933, Senator John H. Bankhead of Alabama introduced
-a bill into Congress for the purpose of authorizing the Federal Government
-to issue a dated Stamp Scrip that shall operate as legal tender during
-the limited period of the issue.(18) Senator Bankhead's plan is that this
-emergency issue be injected into the national circulation, partly through
-the regular expenditures of the Federal Government, partly through the
-expenditures of the state governments among which certain shares of the
-scrip issue would be apportioned, and partly through localities among which
-the states would further sub-divide the issue.
+17 февраля 1933 года сенатор Джон Х.Бэнкхэд от Алабамы внес в Конгресс законопроект, разрешающий федеральному
+правительству выпускать датируемые марочные сертификаты, которые должны работать в качестве законного платежного
+средства в течении ограниченного периода их выпуска. (18) План сенатора Бэнкхэда состоит в том, чтобы ввести в
+национальный оборот чрезвычайный выпуск сертификатов, частично покрыв ими регулярные расходы федерального правительства,
+частично - расходы правительств штатов, среди которых должна быть распределена часть выпуска сертификатов, и частично -
+расходы местных общин, которым штаты должны выделить долю из своей части выпуска.
 
 Before considering the national aspect, which this proposal opens up,
 let us see further how the local application must still be achieved, whether

@@ -281,7 +281,7 @@ I doubt if any bank would be bothered with such scrip. The American experiment
 along this line was that of the "Threefold Corporation" of New York," which
 has now abandoned it in favor of Stamp Scrip.
 
-Another rather original application of the principle of "compulsory"
+(IV) Another rather original application of the principle of "compulsory"
 circulation is the "Speed Money" which the zealous adherents of the German-Wära
 movement started, after the Government had interfered with their issuance
 of Stamp Scrip. A Dr. Nordwall, of Norden in Germany advertised in the

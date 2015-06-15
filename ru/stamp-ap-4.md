@@ -4,20 +4,16 @@
 
 ПРИЛОЖЕНИЕ
 ----------
-### IV. МАРОЧНЫЕ СЕРТИФИКАТЫ, АДОПТИРОВАННЫЕ К ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ В РЕДИНГЕ, ПЕНСИЛЬВАНИЯ
-#### By Hans R. L. Cohrssen
-The Chamber of Commerce to issue a certain amount of dated stamp scrip
-to the city, school board, county, factories and the merchants. For the
-amount issued to the city, county and school board, the Chamber of Commerce
-would receive anticipation tax warrants as collateral. Scrip issued to
-manufactures or others for payrolls must be bought with cash or checks.
-The scrip is to be issued in denominations of 50 cent and $1.00, to he
-stamped three or four weeks after issuing. Perhaps the first stamping will
-be Wednesday, April 5. The reason for having the scrip circulate without
-stamping in the beginning is (a) to issue any needed amount as a substitute
-for money which might not be available at this moment and (b) to get general
-acceptance of the scrip and gain time to fully prepare the public for the
-stamping feature through a publicity campaign.
+### IV. МАРОЧНЫЕ СЕРТИФИКАТЫ, АДАПТИРОВАННЫЕ К ЧРЕЗВЫЧАЙНОЙ СИТУАЦИИ В РЕДИНГЕ, ПЕНСИЛЬВАНИЯ
+#### Автор - Хэнс Р.Л.Кохрссен
+Торговая палата выпустила определенное количество датируемых марочных сертификатов для города, школьного совета, округа,
+заводов и торговцев. На сумму выпуска для города, округа и школьного совета Торговая палата получила ордера ожидаемого
+налога в качестве залога. Сертификаты, передаваемые предприятиям и прочим для увеличения занятости, должны были
+оплачиваться наличными или чеками. Сертификаты были выпущены в номиналах по 50 центов и $1.00. Первая наклейка марок
+должна было производиться 5 апреля, но было решено начать приклеивать марки через три или четыре недели после выпуска.
+Причины, по которым сертификаты начали обращаться без марок, были следующими: (a) выпуск заменителей денег осуществлялся
+в момент, когда сами денег были недоступны, и (b) чтобы обеспечить общее признание сертификатов и выиграть время для
+подготовки общества к будущей наклейке марок путем информационной кампании.
 
 The proceeds from this issue is to be used primarily for poor relief
 so as to help the unemployment situation, as a relief not only to the poor
