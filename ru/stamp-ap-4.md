@@ -15,60 +15,47 @@
 в момент, когда сами денег были недоступны, и (b) чтобы обеспечить общее признание сертификатов и выиграть время для
 подготовки общества к будущей наклейке марок путем информационной кампании.
 
-The proceeds from this issue is to be used primarily for poor relief
-so as to help the unemployment situation, as a relief not only to the poor
-but the city, county, school board and the taxpayers as well.
+Вырученные от этого выпуска средства должны использоваться, в первую очередь, для того, чтобы помочь беднякам решить
+проблему безработицы, а также для нужд города, округа, школьного совета и налогоплательщиков.
 
-The Chamber of Commerce will set up a clearing house service which
-operates in two ways.
+Торговая палата создала также центр клирингового обслуживания, который работает двумя способами:
 
-#### 1. Central Clearing House
-The Central Clearing House is to take scrip off the hands of local retailers
-and wholesalers who cannot use it for out-of-town purchases. It passes
-this scrip on to local manufacturers who pay for it with out-of-town checks
-or cash which is then given to the local retailers. In the same way, any
-surplus of scrip is taken off the hands of the banks.
+##### 1. Центральный клиринговый офис
+Центральный клиринговый офис принимает сертификаты от местных розничных торговцев и оптовиков, которые не могут
+использовать их для покупок за пределами города. Эти сертификаты передаются местным производителям, которые
+расплачиваются за них иногородними чеками или наличностью, которые в свою очередь передаются местным розничным
+торговцам. Таким же образом избыточные сертификаты забираются из банков.
 
-#### 2. Branch Clearing House (3)
-The Reading banks will accept scrip on deposit by merchants and others
-and pass it on automatically to their customers, rather to those of their
-customers who have agreed to draw a certain amount of scrip for payrolls.
-Any surplus the banks will not be able to dispose of immediately goes to
-the Central Clearing House. For outright redemption in cash asked at the
-banks by persons who have no regular accounts, the banks are entitled to
-charge a redemption fee of 4%. Scrip deposits will be carried by the banks
-on special scrip accounts. After all scrip has been retired from circulation,
-these accounts will be changed into regular accounts and the bank shall
-be entitled to charge a special fee for the service rendered. In case the
-banks should be in no position to cooperate with the scrip transactions
-they may permit the Chamber of Commerce to establish "scrip windows" in
-their offices from which the Clearing House Service could be operated.
-The scrip bills will contain the following information on the front side:
+##### 2. Отделения клирингового офиса (3)
+Банки Рединга принимают сертификаты на депозиты от торговцев и прочих, и сразу же передают их другим своим клиентам,
+оказывая предпочтение тем, кто соглашается потратить определенное количество сертификатов на создание рабочих мест.
+Любые излишки, которые банки не могут немедленно распределить, отдаются в Центральный клиринговый офис. В случае, если
+некто, не имеющий постоянного счета, хочет обменять сертификаты на деньги, банки имеют право взимать компенсационный
+сбор в размере 4%. Сертификатные депозиты хранятся банками на специальных сертификатных счетах. После того, как все
+сертификаты будут изъяты из обращения, эти счета будут преобразованы в обычные счета, за что банк возьмет специальную
+пошлину. В случае, если банк не имеет возможности обслуживать транзакции в сертификатах, он может разрешить Торговой
+палате создать в своих отделениях "окна сертификатов" для проведения операций центра клирингового обслуживания.
 
-#### "READING, PENNA. STAMP SCRIP NOTE"
-Issued by the Reading Chamber of Commerce to circulate at face value
-in trade and may be accepted for taxes until further notice by the City
-of Reading, County of Berks and Reading School District.
+На лицевой стороне купюр сертификатов размещена следующая информация:
 
-Redeemable at face value when fully stamped on back with 52 special
-"Reading Unemployment Stamps" upon presentation not later than May 5th,
-1934.
+#### "РЕДИНГ, ПЕНСИЛЬВАНИЯ. БАНКНОТА МАРОЧНОГО СЕРТИФИКАТА"
+Выпущена Торговой палатой Рединга для обращения в торговле по номинальной стоимости и может приниматься в уплату налогов
+вплоть до дальнейшего распоряжения от города Рединг, округа Беркс и школьного округа Рединг.
 
-Stamps for sale at all stores displaying signs.
+Выкупается по номинальной стоимости, когда на оборотную сторону будет наклеено 52 специальные "Марки безработных
+Рединга", но не позже 5 мая 1934.
 
-On the reverse side there will be 52 spaces in which the dates of the
-52 consecutive Wednesdays of one year are printed beginning with Wednesday,
-April 5. On a one-dollar bill, a "2" is printed in each space and on the
-fifty-cent bill, a "1" is printed. The bills are to be a little larger
-than the present one-dollar bills.
+Марки продаются во всех магазинах, обозначенных соответствующими надписями.
 
-#### OPERATING THE PLAN
-To begin with there might be a rather large issue in order to satisfy
-immediate payroll demands. The city, county and school board will soon
-receive large amounts of this first issue for taxes in arrears, etc. Part
-of this they will use again for payrolls. Any excess they may receive would
-be returned to the Clearing House which in turn would give back the same
-amount of collateral.
+На оборотной стороне имеется 52 ячейки с датами 52-х подряд идущих сред одного года начиная со среды 5 апреля. На
+однодолларовых банкнотах в этих ячейках также напечатано "2", а на пятидесятицентовых - "1". Эти банкноты должны быть
+немного больше, чем обычные однодолларовые банкноты.
+
+#### ОПЕРАТИВНЫЙ ПЛАН
+Первый выпуск планируется довольно большим, чтобы удовлетворить срочные потребности в выплате заработной платы. Город,
+округ и школьный совет получат большие суммы из этого выпуска в счет задолженностей по налогам и т.д. Часть этих
+сертификатов они снова используют для выплат заработной платы. Все излишки они могут передать в клиринговый центр,
+который отдаст за них соответствующую сумму залога.
 
 Another large portion will go to local retailers who will deposit it
 at their banks. Through the banks it comes in part to the Central Clearing
@@ -261,7 +248,7 @@ by the Operating Committee
 of the Operating Committee.
 
 How Does Scrip Look? Reading-Berks County Stamp Scrip comes in denominations
-of 50\A2, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
+of 50¢, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
 the $5 bill is rose and the $10 bill is blue. It is printed on especially
 secured safety paper. When holding the bills against the light you will
 detect the watermarks. Protect yourself by looking at the watermarks before

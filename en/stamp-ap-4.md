@@ -26,14 +26,14 @@ but the city, county, school board and the taxpayers as well.
 The Chamber of Commerce will set up a clearing house service which
 operates in two ways.
 
-#### 1. Central Clearing House
+##### 1. Central Clearing House
 The Central Clearing House is to take scrip off the hands of local retailers
 and wholesalers who cannot use it for out-of-town purchases. It passes
 this scrip on to local manufacturers who pay for it with out-of-town checks
 or cash which is then given to the local retailers. In the same way, any
 surplus of scrip is taken off the hands of the banks.
 
-#### 2. Branch Clearing House (3)
+##### 2. Branch Clearing House (3)
 The Reading banks will accept scrip on deposit by merchants and others
 and pass it on automatically to their customers, rather to those of their
 customers who have agreed to draw a certain amount of scrip for payrolls.
@@ -265,7 +265,7 @@ by the Operating Committee
 of the Operating Committee.
 
 How Does Scrip Look? Reading-Berks County Stamp Scrip comes in denominations
-of 50¢, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
+of 50Â¢, $1 $5 and $10. The 50 cent bill is yellow, the $1 bill is green,
 the $5 bill is rose and the $10 bill is blue. It is printed on especially
 secured safety paper. When holding the bills against the light you will
 detect the watermarks. Protect yourself by looking at the watermarks before
